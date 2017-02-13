@@ -1,6 +1,7 @@
 const path = require('path');
 const webpack = require('webpack'); //to access built-in plugins
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const appTitle = 'Hockey App';
 
 module.exports = {
@@ -13,11 +14,13 @@ module.exports = {
   },
   module: {
     rules: [
-      {test: /\.(js|jsx)$/, use: 'babel-loader'},
-      {test: /\.html$/,     use: 'raw-loader'}
+      { test: /\.scss$/, use: ExtractTextPlugin.extract('css-loader?sourceMap!postcss-loader!sass-loader?sourceMap')},
+      { test: /\.(js|jsx)$/, use: 'babel-loader' },
+      { test: /\.html$/, use: 'raw-loader' },
     ]
   },
   plugins: [
-    new webpack.optimize.UglifyJsPlugin()
+    new webpack.optimize.UglifyJsPlugin(),
+    new ExtractTextPlugin('styles/main.css')
   ]
 };

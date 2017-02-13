@@ -1,11 +1,12 @@
 <html ng-app="app">
   <head>
     <script src="./dist/bundle.js"></script>
+    <link rel="stylesheet" href="./dist/styles/main.css">
     <title>Angular Webpack</title>
   </head>
   <body>
     <div ng-controller="HomeController">
-      <div>{{home.helloWorld}} {{2 + 2}}</div>
+      <div class="test-class">{{home.helloWorld}} {{2 + 2}}</div>
     </div>
   </body>
 </html>
