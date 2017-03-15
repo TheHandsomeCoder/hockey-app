@@ -1,8 +1,8 @@
 import '../styles/main.scss';
 import angular from 'angular';
-import HomeController from './home/home.controller.js';
+import liveScoring from './live-scoring/';
 import uirouter from 'angular-ui-router';
+import routes from './config/route.config.js';
 
-angular.module('app', [])
-.controller('HomeController', HomeController);
-
+angular.module('app', [home])
+.config(routes);
