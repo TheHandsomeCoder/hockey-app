@@ -8,15 +8,23 @@
 
 <body>
   <div class="top-bar">
-    <div class="top-bar-left">
-      <ul class="dropdown menu" data-dropdown-menu>
-        <li class="menu-text">Hockey App - Live scoring</li>
-      </ul>
-    </div>
-    <div class="top-bar-right">
-
+    <div class="row">
+      <div class="top-bar-left">
+        <ul class="dropdown menu" data-dropdown-menu="" role="menubar" data-dropdownmenu="8vqnnx-dropdownmenu">
+          <li class="menu-text" role="menuitem" tabindex="0">Hockey App</li>
+        </ul>
+      </div>
+      <div class="top-bar-right">
+        <ul class="menu">
+          <li><a ui-sref="teamBuilder">Team Builder</a></li>
+          <li><a ui-sref="liveScoring">Live Scoring</a></li>
+        </ul>
+      </div>
     </div>
   </div>
-  <ui-view></ui-view>
+  <div class="row columns">
+    <ui-view></ui-view>
+  </div>
 </body>
+
 </html>
