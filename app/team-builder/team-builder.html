@@ -1,31 +1,32 @@
 <h2>Team Builder</h2>
-{{vm.players.length}}
+
 <div class="row">
-    <div class="small-6 columns">
-        <label>Enter player name
+    <div class="small-8 columns">
+        <label>Enter player name (You'll need at least three letters to show results)
         <input type="text" ng-model="search"/>
       </label>
     </div>
+    <div class="small-12 columns">
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>First name</th>
+                    <th>Last Name</th>
+                    <th>Team</th>
+                    <th>Abbreviation</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr ng-if="search.length > 3" ng-repeat="player in vm.players | filter:search">
+                <td>{{player.player.ID}}</td>
+                <td>{{player.player.FirstName}}</td>
+                <td>{{player.player.LastName}}</td>
+                <td>{{player.team.Name}}</td>
+                <td>{{player.team.Abbreviation}}</td>
 
-    <table>
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>First name</th>
-                <th>Last Name</th>
-                <th>Team</th>
-                <th>Abbreviation</th>
             </tr>
-        </thead>
-        <tbody>
-           <tr ng-repeat="player in vm.players | filter:search">
-               <td>{{player.player.ID}}</td>
-               <td>{{player.player.FirstName}}</td>
-               <td>{{player.player.LastName}}</td>
-               <td>{{player.team.Name}}</td>
-               <td>{{player.team.Abbreviation}}</td>
-
-           </tr>
-        </tbody>
-    </table>
+            </tbody>
+        </table>
+    </div>
 </div>
