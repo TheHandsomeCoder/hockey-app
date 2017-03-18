@@ -1,6 +1,6 @@
-export default class LiveScoringController{
+export default class HomeController{
   constructor($scope){
     this.helloWorld = 'Hello World';
   }
 }
-LiveScoringController.$inject = ['$scope'];
+HomeController.$inject = ['$scope'];

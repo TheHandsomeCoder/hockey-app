@@ -2,11 +2,12 @@ const path = require('path');
 const webpack = require('webpack'); //to access built-in plugins
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
+const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 const appTitle = 'Hockey App';
 
 module.exports = {
   entry: './app/app.js',
-  devtool: 'cheap-module-eval-source-map',
+  devtool: 'source-map',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
@@ -20,7 +21,12 @@ module.exports = {
     ]
   },
   plugins: [
-    new webpack.optimize.UglifyJsPlugin(),
+    new UglifyJSPlugin({
+            compress: { warnings: false },
+            output: { comments: false },
+            sourceMap: true,
+            mangle: false
+        }),
     new ExtractTextPlugin('styles/main.css')
   ]
 };
