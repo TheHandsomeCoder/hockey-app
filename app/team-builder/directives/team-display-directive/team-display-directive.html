@@ -5,7 +5,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr ng-repeat="player in vm.team.forwards">
+        <tr ng-repeat="player in vm.team.forwards track by $index">
             <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
         </tr>
     </tbody>
@@ -17,7 +17,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr ng-repeat="player in vm.team.defenders">
+        <tr ng-repeat="player in vm.team.defenders track by $index">
             <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
         </tr>
     </tbody>

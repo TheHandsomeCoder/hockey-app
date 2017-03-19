@@ -3,9 +3,10 @@ import players from './data/players';
 const teams = _(players).map(player => player.team).uniqBy(team => team.ID).value();
 
 export default class TeamBuilderController{
-  constructor($scope, $http) {
+  constructor($scope, $http, clipboard) {
     this.players = players;
     this.teams = teams;
+    this.clipboard = clipboard;
 
     this.positions = [
       'forwards',
@@ -29,5 +30,9 @@ export default class TeamBuilderController{
   addTeamToLineUp(team){
     this.lineup.goalies = team;
   }
+
+  copyLineupToClipboardAsJSON(lineup, pretty){
+    this.clipboard.copyText(angular.toJson(lineup, pretty));
+  }
 }
-TeamBuilderController.$inject = ['$scope', '$http'];
+TeamBuilderController.$inject = ['$scope', '$http', 'clipboard'];
