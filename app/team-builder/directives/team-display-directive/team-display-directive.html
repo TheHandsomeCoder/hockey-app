@@ -2,11 +2,13 @@
     <thead>
         <tr>
             <th>Forwards</th>
+            <th>Remove</th>
         </tr>
     </thead>
     <tbody>
         <tr ng-repeat="player in vm.team.forwards track by $index">
             <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
+            <td><a ng-click="vm.removePlayerFromLineup(player, vm.team.forwards)">Remove</a></td>
         </tr>
     </tbody>
 </table>
@@ -14,11 +16,13 @@
     <thead>
         <tr>
             <th>Defenders</th>
+            <th>Remove</th>
         </tr>
     </thead>
     <tbody>
         <tr ng-repeat="player in vm.team.defenders track by $index">
             <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
+              <td><a ng-click="vm.removePlayerFromLineup(player, vm.team.forwards)">Remove</a></td>
         </tr>
     </tbody>
 </table>

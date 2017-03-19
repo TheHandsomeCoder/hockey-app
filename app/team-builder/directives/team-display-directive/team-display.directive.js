@@ -1,3 +1,5 @@
+import _ from 'lodash'
+
 export default class TeamDisplayDirective {
     constructor() {
         this.restrict = 'EA';
@@ -12,8 +14,12 @@ export default class TeamDisplayDirective {
 };
 
 class TeamDisplayDirectiveController {
-    constructor() {
-         console.log('lolol');
+    constructor() {}
+    removePlayerFromLineup(player, position){
+        console.log('lol');
+        _.remove(position, (aPlayer) => {
+            return aPlayer.player.ID === player.player.ID;
+        });
     }
 };
 
