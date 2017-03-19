@@ -1,36 +1,36 @@
 <table>
-          <thead>
-               <tr>
-                  <th>Forwards</th>
-              </tr>
-          </thead>
-          <tbody>
-               <tr ng-repeat="players in lineup.forwards">
-                  <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
-              </tr>
-          </tbody>
-</table>
-<table >
-          <thead>
-               <tr>
-                  <th>Defenders</th>
-              </tr>
-          </thead>
-          <tbody>
-               <tr ng-repeat="players in lineup.defenders">
-                  <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
-              </tr>
-          </tbody>
+    <thead>
+        <tr>
+            <th>Forwards</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="player in vm.team.forwards">
+            <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
+        </tr>
+    </tbody>
 </table>
 <table>
-          <thead>
-               <tr>
-                  <th>Goalies</th>
-              </tr>
-          </thead>
-          <tbody>
-               <tr ng-if="lineup.goalies">
-                  <td>{{lineup.goalies.Name}} - {{lineup.goalies.Abbreviation}}</td>
-              </tr>
-          </tbody>
+    <thead>
+        <tr>
+            <th>Defenders</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="player in vm.team.defenders">
+            <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th>Goalies</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-if="vm.team.goalies">
+            <td>{{vm.team.goalies.Name}} - {{vm.team.goalies.Abbreviation}}</td>
+        </tr>
+    </tbody>
 </table>

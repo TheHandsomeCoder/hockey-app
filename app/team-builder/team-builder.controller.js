@@ -16,7 +16,7 @@ export default class TeamBuilderController{
     this.lineup = {
       'forwards' : [],
       'defenders' : [],
-      'goalies' : []
+      'goalies' : null
     };
 
     this.activePosition = this.positions[0];
@@ -27,7 +27,7 @@ export default class TeamBuilderController{
   }
 
   addTeamToLineUp(team){
-    this.lineup.goalies.push(team);
+    this.lineup.goalies = team;
   }
 }
 TeamBuilderController.$inject = ['$scope', '$http'];
