@@ -22,7 +22,7 @@
     <tbody>
         <tr ng-repeat="player in vm.team.defenders track by $index">
             <td>{{player.player.FirstName}} {{player.player.LastName}} {{player.team.Abbreviation}}</td>
-              <td><a ng-click="vm.removePlayerFromLineup(player, vm.team.forwards)">Remove</a></td>
+              <td><a ng-click="vm.removePlayerFromLineup(player, vm.team.defenders)">Remove</a></td>
         </tr>
     </tbody>
 </table>
@@ -34,7 +34,7 @@
     </thead>
     <tbody>
         <tr ng-if="vm.team.goalies">
-            <td>{{vm.team.goalies.Name}} - {{vm.team.goalies.Abbreviation}}</td>
+            <td>{{vm.team.goalies.City}} {{vm.team.goalies.Name}} - {{vm.team.goalies.Abbreviation}}</td>
         </tr>
     </tbody>
 </table>
