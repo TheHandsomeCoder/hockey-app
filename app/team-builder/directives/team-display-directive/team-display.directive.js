@@ -1,19 +1,20 @@
-export default function() {
-    return {
-        restrict : 'EA',
-        template : require('./team-display-directive.html'),
-        scope : {
+export default class TeamDisplayDirective {
+    constructor() {
+        this.restrict = 'EA';
+        this.template = require('./team-display-directive.html');
+        this.scope = {
           team: '='
-        },
-        controller: function($scope){
-            console.log('lolol');
-            $scope.$watch('team', function(){
-                console.log('woot');
-            });
-        },
-        controllerAs : 'vm',
-        bindToController: true
-  };
-}
+        };
+        this.controller = TeamDisplayDirectiveController;
+        this.controllerAs = 'vm';
+        this.bindToController = true;
+    }
+};
+
+class TeamDisplayDirectiveController {
+    constructor() {
+         console.log('lolol');
+    }
+};
 
 
