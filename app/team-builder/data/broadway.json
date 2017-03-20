@@ -1,0 +1,230 @@
+{
+    "forwards": [{
+            "player": {
+                "ID": "3495",
+                "LastName": "Ovechkin",
+                "FirstName": "Alex",
+                "JerseyNumber": "8",
+                "Position": "LW",
+                "Height": "6'3\"",
+                "Weight": "230",
+                "BirthDate": "1985-09-17",
+                "Age": "31",
+                "BirthCity": "Moscow",
+                "BirthCountry": "Russia",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "5",
+                "City": "Washington",
+                "Name": "Capitals",
+                "Abbreviation": "WSH"
+            }
+        },
+        {
+            "player": {
+                "ID": "5011",
+                "LastName": "Atkinson",
+                "FirstName": "Cam",
+                "JerseyNumber": "13",
+                "Position": "RW",
+                "Height": "5'7\"",
+                "Weight": "172",
+                "BirthDate": "1989-06-05",
+                "Age": "27",
+                "BirthCity": "Riverside, CT",
+                "BirthCountry": "USA",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "19",
+                "City": "Columbus",
+                "Name": "Blue Jackets",
+                "Abbreviation": "CBJ"
+            }
+        },
+        {
+            "player": {
+                "ID": "4420",
+                "LastName": "Turris",
+                "FirstName": "Kyle",
+                "JerseyNumber": "7",
+                "Position": "C",
+                "Height": "6'1\"",
+                "Weight": "191",
+                "BirthDate": "1989-08-14",
+                "Age": "27",
+                "BirthCity": "New Westminster, BC",
+                "BirthCountry": "Canada",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "13",
+                "City": "Ottawa",
+                "Name": "Senators",
+                "Abbreviation": "OTT"
+            }
+        },
+        {
+            "player": {
+                "ID": "4527",
+                "LastName": "Bailey",
+                "FirstName": "Joshua",
+                "JerseyNumber": "12",
+                "Position": "LW",
+                "Height": "6'1\"",
+                "Weight": "190",
+                "BirthDate": "1989-10-02",
+                "Age": "27",
+                "BirthCity": "Bowmanville, ON",
+                "BirthCountry": "Canada",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "8",
+                "City": "New York",
+                "Name": "Islanders",
+                "Abbreviation": "NYI"
+            }
+        },
+        {
+            "player": {
+                "ID": "5352",
+                "LastName": "Jarnkrok",
+                "FirstName": "Calle",
+                "JerseyNumber": "19",
+                "Position": "C",
+                "Height": "5'11\"",
+                "Weight": "156",
+                "BirthDate": "1991-09-25",
+                "Age": "25",
+                "BirthCity": "Gavle",
+                "BirthCountry": "Sweden",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "18",
+                "City": "Nashville",
+                "Name": "Predators",
+                "Abbreviation": "NSH"
+            }
+        },
+        {
+            "player": {
+                "ID": "736",
+                "LastName": "Gaborik",
+                "FirstName": "Marian",
+                "JerseyNumber": "12",
+                "Position": "LW",
+                "Height": "6'1\"",
+                "Weight": "204",
+                "BirthDate": "1982-02-14",
+                "Age": "35",
+                "BirthCity": "Trencin",
+                "BirthCountry": "Czechoslovakia",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "28",
+                "City": "Los Angeles",
+                "Name": "Kings",
+                "Abbreviation": "LAK"
+            }
+        }
+    ],
+    "defenders": [{
+            "player": {
+                "ID": "4660",
+                "LastName": "Karlsson",
+                "FirstName": "Erik",
+                "JerseyNumber": "65",
+                "Position": "D",
+                "Height": "6'0\"",
+                "Weight": "180",
+                "BirthDate": "1990-05-31",
+                "Age": "26",
+                "BirthCity": "Landsbro",
+                "BirthCountry": "Sweden",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "13",
+                "City": "Ottawa",
+                "Name": "Senators",
+                "Abbreviation": "OTT"
+            }
+        },
+        {
+            "player": {
+                "ID": "4901",
+                "LastName": "Shattenkirk",
+                "FirstName": "Kevin",
+                "JerseyNumber": "22",
+                "Position": "D",
+                "Height": "5'11\"",
+                "Weight": "207",
+                "BirthDate": "1989-01-29",
+                "Age": "28",
+                "BirthCity": "New Rochelle, NY",
+                "BirthCountry": "USA",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "17",
+                "City": "St. Louis",
+                "Name": "Blues",
+                "Abbreviation": "STL"
+            }
+        },
+        {
+            "player": {
+                "ID": "4967",
+                "LastName": "Postma",
+                "FirstName": "Paul",
+                "JerseyNumber": "4",
+                "Position": "D",
+                "Height": "6'3\"",
+                "Weight": "195",
+                "BirthDate": "1989-02-22",
+                "Age": "28",
+                "BirthCity": "Red Deer, AB",
+                "BirthCountry": "Canada",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "47",
+                "City": "Winnipeg",
+                "Name": "Jets",
+                "Abbreviation": "WPJ"
+            }
+        },
+        {
+            "player": {
+                "ID": "5298",
+                "LastName": "Miller",
+                "FirstName": "Kevan",
+                "JerseyNumber": "86",
+                "Position": "D",
+                "Height": "6'2\"",
+                "Weight": "210",
+                "BirthDate": "1987-11-15",
+                "Age": "29",
+                "BirthCity": "Los Angeles, CA",
+                "BirthCountry": "USA",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "11",
+                "City": "Boston",
+                "Name": "Bruins",
+                "Abbreviation": "BOS"
+            }
+        }
+    ],
+    "goalies": {
+        "ID": "10",
+        "City": "Pittsburgh",
+        "Name": "Penguins",
+        "Abbreviation": "PIT"
+    }
+}

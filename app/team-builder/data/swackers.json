@@ -1,0 +1,228 @@
+{
+    "forwards": [{
+            "player": {
+                "ID": "5210",
+                "LastName": "Forsberg",
+                "FirstName": "Filip",
+                "JerseyNumber": "9",
+                "Position": "C",
+                "Height": "5'11\"",
+                "Weight": "186",
+                "BirthDate": "1994-08-13",
+                "Age": "22",
+                "BirthCity": "Ostervala",
+                "BirthCountry": "Sweden",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "18",
+                "City": "Nashville",
+                "Name": "Predators",
+                "Abbreviation": "NSH"
+            }
+        },
+        {
+            "player": {
+                "ID": "5419",
+                "LastName": "Ehlers",
+                "FirstName": "Nikolaj",
+                "JerseyNumber": "27",
+                "Position": "RW",
+                "Height": "6'0\"",
+                "Weight": "168",
+                "BirthDate": "1996-02-13",
+                "Age": "21",
+                "BirthCity": "Aalborg",
+                "BirthCountry": "Denmark",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "47",
+                "City": "Winnipeg",
+                "Name": "Jets",
+                "Abbreviation": "WPJ"
+            }
+        },
+        {
+            "player": {
+                "ID": "4394",
+                "LastName": "Giroux",
+                "FirstName": "Claude",
+                "JerseyNumber": "28",
+                "Position": "RW",
+                "Height": "5'11\"",
+                "Weight": "172",
+                "BirthDate": "1988-01-12",
+                "Age": "29",
+                "BirthCity": "Hearst, ON",
+                "BirthCountry": "Canada",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "6",
+                "City": "Philadelphia",
+                "Name": "Flyers",
+                "Abbreviation": "PHI"
+            }
+        },
+        {
+            "player": {
+                "ID": "5230",
+                "LastName": "Drouin",
+                "FirstName": "Jonathan",
+                "JerseyNumber": "27",
+                "Position": "LW",
+                "Height": "5'11\"",
+                "Weight": "186",
+                "BirthDate": "1995-03-28",
+                "Age": "21",
+                "BirthCity": "Ste-Agathe, QC",
+                "BirthCountry": "Canada",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "1",
+                "City": "Tampa Bay",
+                "Name": "Lightning",
+                "Abbreviation": "TBL"
+            }
+        },
+        {
+            "player": {
+                "ID": "5418",
+                "LastName": "Nylander",
+                "FirstName": "William",
+                "JerseyNumber": "29",
+                "Position": "C",
+                "Height": "6'0\"",
+                "Weight": "190",
+                "BirthCity": "Calgary, AB",
+                "BirthCountry": "Canada",
+                "IsRookie": "true"
+            },
+            "team": {
+                "ID": "12",
+                "City": "Toronto",
+                "Name": "Maple Leafs",
+                "Abbreviation": "TOR"
+            }
+        },
+        {
+            "player": {
+                "ID": "5226",
+                "LastName": "Nelson",
+                "FirstName": "Brock",
+                "JerseyNumber": "29",
+                "Position": "C",
+                "Height": "6'3\"",
+                "Weight": "196",
+                "BirthDate": "1991-10-15",
+                "Age": "25",
+                "BirthCity": "Warroad, MN",
+                "BirthCountry": "USA",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "8",
+                "City": "New York",
+                "Name": "Islanders",
+                "Abbreviation": "NYI"
+            }
+        }
+    ],
+    "defenders": [{
+            "player": {
+                "ID": "5253",
+                "LastName": "Ristolainen",
+                "FirstName": "Rasmus",
+                "JerseyNumber": "55",
+                "Position": "D",
+                "Height": "6'4\"",
+                "Weight": "207",
+                "BirthDate": "1994-10-27",
+                "Age": "22",
+                "BirthCity": "Turku",
+                "BirthCountry": "Finland",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "15",
+                "City": "Buffalo",
+                "Name": "Sabres",
+                "Abbreviation": "BUF"
+            }
+        },
+        {
+            "player": {
+                "ID": "5243",
+                "LastName": "Jones",
+                "FirstName": "Seth",
+                "JerseyNumber": "3",
+                "Position": "D",
+                "Height": "6'4\"",
+                "Weight": "205",
+                "BirthDate": "1994-10-03",
+                "Age": "22",
+                "BirthCity": "Arlington, TX",
+                "BirthCountry": "USA",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "19",
+                "City": "Columbus",
+                "Name": "Blue Jackets",
+                "Abbreviation": "CBJ"
+            }
+        },
+        {
+            "player": {
+                "ID": "4939",
+                "LastName": "Tanev",
+                "FirstName": "Christopher",
+                "JerseyNumber": "8",
+                "Position": "D",
+                "Height": "6'2\"",
+                "Weight": "185",
+                "BirthDate": "1989-12-20",
+                "Age": "27",
+                "BirthCity": "Toronto, ON",
+                "BirthCountry": "Canada",
+                "IsRookie": "false"
+            },
+            "team": {
+                "ID": "21",
+                "City": "Vancouver",
+                "Name": "Canucks",
+                "Abbreviation": "VAN"
+            }
+        },
+        {
+            "player": {
+                "ID": "5602",
+                "LastName": "Provorov",
+                "FirstName": "Ivan",
+                "JerseyNumber": "9",
+                "Position": "D",
+                "Height": "6'1\"",
+                "Weight": "201",
+                "BirthDate": "1997-01-13",
+                "Age": "20",
+                "BirthCity": "Yaroslavl",
+                "BirthCountry": "Russia",
+                "IsRookie": "true"
+            },
+            "team": {
+                "ID": "6",
+                "City": "Philadelphia",
+                "Name": "Flyers",
+                "Abbreviation": "PHI"
+            }
+        }
+    ],
+    "goalies": {
+        "ID": "17",
+        "City": "St. Louis",
+        "Name": "Blues",
+        "Abbreviation": "STL"
+    }
+}
