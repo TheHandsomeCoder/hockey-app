@@ -1,0 +1,2965 @@
+{
+    "gameplaybyplay": {
+        "lastUpdatedOn": "2017-03-11 11:44:14 PM",
+        "game": {
+            "date": "2017-03-11",
+            "time": "8:00PM",
+            "awayTeam": {
+                "ID": "8",
+                "City": "New York",
+                "Name": "Islanders",
+                "Abbreviation": "NYI"
+            },
+            "homeTeam": {
+                "ID": "17",
+                "City": "St. Louis",
+                "Name": "Blues",
+                "Abbreviation": "STL"
+            },
+            "location": "Scottrade Center"
+        },
+        "plays": {
+            "play": [
+                {
+                    "period": "1",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:41",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:55",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:13",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:17",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:18",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:24",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "388",
+                            "LastName": "Chimera",
+                            "FirstName": "Jason",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:34",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5364",
+                            "LastName": "Mayfield",
+                            "FirstName": "Scott",
+                            "JerseyNumber": "42",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:42",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "4548",
+                            "LastName": "Pietrangelo",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "3:05",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:19",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4527",
+                            "LastName": "Bailey",
+                            "FirstName": "Joshua",
+                            "JerseyNumber": "12",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:21",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "4:38",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5823",
+                            "LastName": "Edmundson",
+                            "FirstName": "Joel",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:39",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "5:04",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "5:23",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "5:55",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5212",
+                            "LastName": "Jaskin",
+                            "FirstName": "Dmitrij",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "5:56",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:14",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "4865",
+                            "LastName": "Paajarvi",
+                            "FirstName": "Magnus",
+                            "JerseyNumber": "56",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:17",
+                    "penalty": {
+                        "teamAbbreviation": "NYI",
+                        "penalizedPlayer": {
+                            "ID": "4511",
+                            "LastName": "Hickey",
+                            "FirstName": "Thomas",
+                            "JerseyNumber": "14",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Tripping"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:17",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:42",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:11",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5135",
+                            "LastName": "Tarasenko",
+                            "FirstName": "Vladimir",
+                            "JerseyNumber": "91",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:23",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "STL",
+                        "goalScorer": {
+                            "ID": "5135",
+                            "LastName": "Tarasenko",
+                            "FirstName": "Vladimir",
+                            "JerseyNumber": "91",
+                            "Position": "RW"
+                        },
+                        "assist1Player": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "assist2Player": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:23",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:34",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5212",
+                            "LastName": "Jaskin",
+                            "FirstName": "Dmitrij",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:47",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:48",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:15",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4902",
+                            "LastName": "Gionta",
+                            "FirstName": "Stephen",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:21",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:14",
+                    "penalty": {
+                        "teamAbbreviation": "STL",
+                        "penalizedPlayer": {
+                            "ID": "5212",
+                            "LastName": "Jaskin",
+                            "FirstName": "Dmitrij",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "High-Sticking"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:14",
+                    "penalty": {
+                        "teamAbbreviation": "STL",
+                        "penalizedPlayer": {
+                            "ID": "5212",
+                            "LastName": "Jaskin",
+                            "FirstName": "Dmitrij",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        },
+                        "severity": "Double Minor",
+                        "durationMinutes": "2",
+                        "type": "High-Sticking"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:14",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:34",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4527",
+                            "LastName": "Bailey",
+                            "FirstName": "Joshua",
+                            "JerseyNumber": "12",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:06",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:13",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4834",
+                            "LastName": "Leddy",
+                            "FirstName": "Nick",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:14",
+                    "penalty": {
+                        "teamAbbreviation": "STL",
+                        "penalizedPlayer": {
+                            "ID": "5212",
+                            "LastName": "Jaskin",
+                            "FirstName": "Dmitrij",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        },
+                        "durationMinutes": "2",
+                        "type": "High-Sticking"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "14:29",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "14:34",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "14:52",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "16:50",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4834",
+                            "LastName": "Leddy",
+                            "FirstName": "Nick",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "16:52",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "17:09",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "17:17",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5199",
+                            "LastName": "Lee",
+                            "FirstName": "Anders",
+                            "JerseyNumber": "27",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "17:27",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "17:42",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "17:50",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:18",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4915",
+                            "LastName": "Hamonic",
+                            "FirstName": "Travis",
+                            "JerseyNumber": "3",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:28",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5049",
+                            "LastName": "de Haan",
+                            "FirstName": "Calvin",
+                            "JerseyNumber": "44",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:39",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "19:10",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "858",
+                            "LastName": "Seidenberg",
+                            "FirstName": "Dennis",
+                            "JerseyNumber": "4",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:11",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:19",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:26",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:27",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "1:23",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4915",
+                            "LastName": "Hamonic",
+                            "FirstName": "Travis",
+                            "JerseyNumber": "3",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:30",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:38",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:58",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "858",
+                            "LastName": "Seidenberg",
+                            "FirstName": "Dennis",
+                            "JerseyNumber": "4",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:03",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:22",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:35",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5364",
+                            "LastName": "Mayfield",
+                            "FirstName": "Scott",
+                            "JerseyNumber": "42",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:16",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:21",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "4729",
+                            "LastName": "Gunnarsson",
+                            "FirstName": "Carl",
+                            "JerseyNumber": "4",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:58",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5030",
+                            "LastName": "Bortuzzo",
+                            "FirstName": "Robert",
+                            "JerseyNumber": "41",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:58",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:58",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "STL",
+                        "goalScorer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:12",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:28",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "858",
+                            "LastName": "Seidenberg",
+                            "FirstName": "Dennis",
+                            "JerseyNumber": "4",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:36",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5212",
+                            "LastName": "Jaskin",
+                            "FirstName": "Dmitrij",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:43",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:50",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "388",
+                            "LastName": "Chimera",
+                            "FirstName": "Jason",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "6:23",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:26",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5212",
+                            "LastName": "Jaskin",
+                            "FirstName": "Dmitrij",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:30",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5030",
+                            "LastName": "Bortuzzo",
+                            "FirstName": "Robert",
+                            "JerseyNumber": "41",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:47",
+                    "penalty": {
+                        "teamAbbreviation": "STL",
+                        "penalizedPlayer": {
+                            "ID": "4307",
+                            "LastName": "Perron",
+                            "FirstName": "David",
+                            "JerseyNumber": "57",
+                            "Position": "LW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Hooking"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:47",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:55",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "255",
+                            "LastName": "Bouwmeester",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "19",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "8:39",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:19",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:20",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4834",
+                            "LastName": "Leddy",
+                            "FirstName": "Nick",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:37",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "NYI",
+                        "goalScorer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "5435",
+                            "LastName": "Ho-Sang",
+                            "FirstName": "Joshua",
+                            "JerseyNumber": "66",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "5364",
+                            "LastName": "Mayfield",
+                            "FirstName": "Scott",
+                            "JerseyNumber": "42",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:37",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:46",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:48",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:39",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "2",
+                    "time": "13:09",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "13:20",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "14:14",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "5199",
+                            "LastName": "Lee",
+                            "FirstName": "Anders",
+                            "JerseyNumber": "27",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:28",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "4892",
+                            "LastName": "Reaves",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "75",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:28",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "STL",
+                        "goalScorer": {
+                            "ID": "5135",
+                            "LastName": "Tarasenko",
+                            "FirstName": "Vladimir",
+                            "JerseyNumber": "91",
+                            "Position": "RW"
+                        },
+                        "assist1Player": {
+                            "ID": "4729",
+                            "LastName": "Gunnarsson",
+                            "FirstName": "Carl",
+                            "JerseyNumber": "4",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:28",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:38",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5119",
+                            "LastName": "Yakupov",
+                            "FirstName": "Nail",
+                            "JerseyNumber": "64",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "16:10",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "5435",
+                            "LastName": "Ho-Sang",
+                            "FirstName": "Joshua",
+                            "JerseyNumber": "66",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:51",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:13",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "388",
+                            "LastName": "Chimera",
+                            "FirstName": "Jason",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:40",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5199",
+                            "LastName": "Lee",
+                            "FirstName": "Anders",
+                            "JerseyNumber": "27",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:53",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5364",
+                            "LastName": "Mayfield",
+                            "FirstName": "Scott",
+                            "JerseyNumber": "42",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:00",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5364",
+                            "LastName": "Mayfield",
+                            "FirstName": "Scott",
+                            "JerseyNumber": "42",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:06",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "STL",
+                        "goalScorer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "4307",
+                            "LastName": "Perron",
+                            "FirstName": "David",
+                            "JerseyNumber": "57",
+                            "Position": "LW"
+                        },
+                        "assist2Player": {
+                            "ID": "4865",
+                            "LastName": "Paajarvi",
+                            "FirstName": "Magnus",
+                            "JerseyNumber": "56",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:06",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:15",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "723",
+                            "LastName": "Upshall",
+                            "FirstName": "Scottie",
+                            "JerseyNumber": "10",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:23",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "4548",
+                            "LastName": "Pietrangelo",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:38",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:01",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:08",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:10",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:26",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "4865",
+                            "LastName": "Paajarvi",
+                            "FirstName": "Magnus",
+                            "JerseyNumber": "56",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:27",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:32",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5135",
+                            "LastName": "Tarasenko",
+                            "FirstName": "Vladimir",
+                            "JerseyNumber": "91",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:00",
+                    "goalieChange": {
+                        "teamAbbreviation": "NYI",
+                        "incomingGoalie": {
+                            "ID": "5404",
+                            "LastName": "Berube",
+                            "FirstName": "Jean-Francois",
+                            "JerseyNumber": "30",
+                            "Position": "G"
+                        },
+                        "outgoingGoalie": {
+                            "ID": "4351",
+                            "LastName": "Greiss",
+                            "FirstName": "Thomas",
+                            "JerseyNumber": "1",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:08",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:15",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:39",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "4892",
+                            "LastName": "Reaves",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "75",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:51",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "4892",
+                            "LastName": "Reaves",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "75",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "1:26",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:02",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "858",
+                            "LastName": "Seidenberg",
+                            "FirstName": "Dennis",
+                            "JerseyNumber": "4",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:11",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:11",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "NYI",
+                        "goalScorer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "assist1Player": {
+                            "ID": "4511",
+                            "LastName": "Hickey",
+                            "FirstName": "Thomas",
+                            "JerseyNumber": "14",
+                            "Position": "D"
+                        },
+                        "assist2Player": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:26",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5119",
+                            "LastName": "Yakupov",
+                            "FirstName": "Nail",
+                            "JerseyNumber": "64",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:27",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "3:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "3:49",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4997",
+                            "LastName": "Strome",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "3:59",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:02",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:31",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "11713",
+                            "LastName": "Schmaltz",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "43",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:52",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5135",
+                            "LastName": "Tarasenko",
+                            "FirstName": "Vladimir",
+                            "JerseyNumber": "91",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:58",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "5:26",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:48",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "4892",
+                            "LastName": "Reaves",
+                            "FirstName": "Ryan",
+                            "JerseyNumber": "75",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:04",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "723",
+                            "LastName": "Upshall",
+                            "FirstName": "Scottie",
+                            "JerseyNumber": "10",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "6:57",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "7:26",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:00",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "388",
+                            "LastName": "Chimera",
+                            "FirstName": "Jason",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "8:24",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:29",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4915",
+                            "LastName": "Hamonic",
+                            "FirstName": "Travis",
+                            "JerseyNumber": "3",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:17",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:33",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5088",
+                            "LastName": "Schwartz",
+                            "FirstName": "Jaden",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:47",
+                    "shot": {
+                        "teamAbbreviation": "STL",
+                        "shooter": {
+                            "ID": "5135",
+                            "LastName": "Tarasenko",
+                            "FirstName": "Vladimir",
+                            "JerseyNumber": "91",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:48",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:18",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5364",
+                            "LastName": "Mayfield",
+                            "FirstName": "Scott",
+                            "JerseyNumber": "42",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:33",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "4865",
+                            "LastName": "Paajarvi",
+                            "FirstName": "Magnus",
+                            "JerseyNumber": "56",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:41",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "388",
+                            "LastName": "Chimera",
+                            "FirstName": "Jason",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:13",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "388",
+                            "LastName": "Chimera",
+                            "FirstName": "Jason",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:28",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:29",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "5212",
+                            "LastName": "Jaskin",
+                            "FirstName": "Dmitrij",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:37",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                null,
+                null,
+                null,
+                {
+                    "period": "3",
+                    "time": "12:13",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11708",
+                            "LastName": "Barbashev",
+                            "FirstName": "Ivan",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:28",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:56",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "5364",
+                            "LastName": "Mayfield",
+                            "FirstName": "Scott",
+                            "JerseyNumber": "42",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "14:26",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:01",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5623",
+                            "LastName": "Beauvillier",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "72",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:41",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4549",
+                            "LastName": "Kulemin",
+                            "FirstName": "Nikolai",
+                            "JerseyNumber": "86",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:59",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4318",
+                            "LastName": "Clutterbuck",
+                            "FirstName": "Cal",
+                            "JerseyNumber": "15",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "16:07",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "4549",
+                            "LastName": "Kulemin",
+                            "FirstName": "Nikolai",
+                            "JerseyNumber": "86",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "16:54",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "17:21",
+                    "penalty": {
+                        "teamAbbreviation": "STL",
+                        "penalizedPlayer": {
+                            "ID": "255",
+                            "LastName": "Bouwmeester",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "19",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Slashing"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:21",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3736",
+                            "LastName": "Brodziak",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "28",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:35",
+                    "goalieChange": {
+                        "teamAbbreviation": "NYI",
+                        "outgoingGoalie": {
+                            "ID": "5404",
+                            "LastName": "Berube",
+                            "FirstName": "Jean-Francois",
+                            "JerseyNumber": "30",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:31",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "NYI",
+                        "goalScorer": {
+                            "ID": "4834",
+                            "LastName": "Leddy",
+                            "FirstName": "Nick",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        },
+                        "assist1Player": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        },
+                        "assist2Player": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4545",
+                            "LastName": "Berglund",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "21",
+                            "Position": "C"
+                        },
+                        "wonBy": "STL"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:31",
+                    "goalieChange": {
+                        "teamAbbreviation": "NYI",
+                        "incomingGoalie": {
+                            "ID": "5404",
+                            "LastName": "Berube",
+                            "FirstName": "Jean-Francois",
+                            "JerseyNumber": "30",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:49",
+                    "goalieChange": {
+                        "teamAbbreviation": "NYI",
+                        "outgoingGoalie": {
+                            "ID": "5404",
+                            "LastName": "Berube",
+                            "FirstName": "Jean-Francois",
+                            "JerseyNumber": "30",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:58",
+                    "hit": {
+                        "teamAbbreviation": "NYI",
+                        "player": {
+                            "ID": "3658",
+                            "LastName": "Ladd",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "16",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4680",
+                            "LastName": "Tavares",
+                            "FirstName": "John",
+                            "JerseyNumber": "91",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3713",
+                            "LastName": "Steen",
+                            "FirstName": "Alexander",
+                            "JerseyNumber": "20",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NYI"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "19:51",
+                    "shot": {
+                        "teamAbbreviation": "NYI",
+                        "shooter": {
+                            "ID": "5226",
+                            "LastName": "Nelson",
+                            "FirstName": "Brock",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:57",
+                    "hit": {
+                        "teamAbbreviation": "STL",
+                        "player": {
+                            "ID": "255",
+                            "LastName": "Bouwmeester",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "19",
+                            "Position": "D"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

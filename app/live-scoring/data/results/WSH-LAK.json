@@ -1,0 +1,2966 @@
+{
+    "gameplaybyplay": {
+        "lastUpdatedOn": "2017-03-16 8:43:18 AM",
+        "game": {
+            "date": "2017-03-11",
+            "time": "10:30PM",
+            "awayTeam": {
+                "ID": "5",
+                "City": "Washington",
+                "Name": "Capitals",
+                "Abbreviation": "WSH"
+            },
+            "homeTeam": {
+                "ID": "28",
+                "City": "Los Angeles",
+                "Name": "Kings",
+                "Abbreviation": "LAK"
+            },
+            "location": "Staples Center"
+        },
+        "plays": {
+            "play": [
+                {
+                    "period": "1",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:51",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4554",
+                            "LastName": "Alzner",
+                            "FirstName": "Karl",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:13",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "5292",
+                            "LastName": "Pearson",
+                            "FirstName": "Tanner",
+                            "JerseyNumber": "70",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:14",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:42",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4456",
+                            "LastName": "Beagle",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "83",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:55",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5914",
+                            "LastName": "Gravel",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "53",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:14",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "277",
+                            "LastName": "Brown",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "23",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:17",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:23",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5813",
+                            "LastName": "Forbort",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "24",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:50",
+                    "penalty": {
+                        "teamAbbreviation": "LAK",
+                        "penalizedPlayer": {
+                            "ID": "4510",
+                            "LastName": "Doughty",
+                            "FirstName": "Drew",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Slashing"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:50",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4547",
+                            "LastName": "Oshie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "77",
+                            "Position": "RW"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "3:13",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4512",
+                            "LastName": "Martinez",
+                            "FirstName": "Alec",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:16",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4547",
+                            "LastName": "Oshie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "77",
+                            "Position": "RW"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:31",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "277",
+                            "LastName": "Brown",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "23",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:35",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "WSH",
+                        "goalScorer": {
+                            "ID": "11472",
+                            "LastName": "Vrana",
+                            "FirstName": "Jakub",
+                            "JerseyNumber": "13",
+                            "Position": "LW"
+                        },
+                        "assist1Player": {
+                            "ID": "4901",
+                            "LastName": "Shattenkirk",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        },
+                        "assist2Player": {
+                            "ID": "196",
+                            "LastName": "Williams",
+                            "FirstName": "Justin",
+                            "JerseyNumber": "14",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:58",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "5:21",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "736",
+                            "LastName": "Gaborik",
+                            "FirstName": "Marian",
+                            "JerseyNumber": "12",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "6:15",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:30",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:42",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "411",
+                            "LastName": "Iginla",
+                            "FirstName": "Jarome",
+                            "JerseyNumber": "88",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:04",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "7:57",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:05",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "4888",
+                            "LastName": "Muzzin",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:06",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4456",
+                            "LastName": "Beagle",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "83",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:37",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:51",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:07",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "5225",
+                            "LastName": "Wilson",
+                            "FirstName": "Tom",
+                            "JerseyNumber": "43",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:17",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "411",
+                            "LastName": "Iginla",
+                            "FirstName": "Jarome",
+                            "JerseyNumber": "88",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "9:35",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "479",
+                            "LastName": "Orpik",
+                            "FirstName": "Brooks",
+                            "JerseyNumber": "44",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:38",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:43",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "277",
+                            "LastName": "Brown",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "23",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:24",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "5191",
+                            "LastName": "Toffoli",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "73",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:26",
+                    "penalty": {
+                        "teamAbbreviation": "WSH",
+                        "penalizedPlayer": {
+                            "ID": "4547",
+                            "LastName": "Oshie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "77",
+                            "Position": "RW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Slashing"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:26",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4456",
+                            "LastName": "Beagle",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "83",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:13",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "12:08",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "11732",
+                            "LastName": "LaDue",
+                            "FirstName": "Paul",
+                            "JerseyNumber": "38",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "12:22",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "411",
+                            "LastName": "Iginla",
+                            "FirstName": "Jarome",
+                            "JerseyNumber": "88",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:23",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:32",
+                    "penalty": {
+                        "teamAbbreviation": "LAK",
+                        "penalizedPlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Tripping"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:32",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:52",
+                    "penalty": {
+                        "teamAbbreviation": "WSH",
+                        "penalizedPlayer": {
+                            "ID": "4901",
+                            "LastName": "Shattenkirk",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Tripping"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:52",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "14:45",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "14:59",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:08",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:20",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "411",
+                            "LastName": "Iginla",
+                            "FirstName": "Jarome",
+                            "JerseyNumber": "88",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:28",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:30",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "LAK",
+                        "goalScorer": {
+                            "ID": "736",
+                            "LastName": "Gaborik",
+                            "FirstName": "Marian",
+                            "JerseyNumber": "12",
+                            "Position": "LW"
+                        },
+                        "assist1Player": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "4512",
+                            "LastName": "Martinez",
+                            "FirstName": "Alec",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:30",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4456",
+                            "LastName": "Beagle",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "83",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:52",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4554",
+                            "LastName": "Alzner",
+                            "FirstName": "Karl",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "16:02",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4888",
+                            "LastName": "Muzzin",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "16:51",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "17:26",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:36",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "5004",
+                            "LastName": "Connolly",
+                            "FirstName": "Brett",
+                            "JerseyNumber": "10",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:43",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:51",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4554",
+                            "LastName": "Alzner",
+                            "FirstName": "Karl",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:23",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "5036",
+                            "LastName": "Orlov",
+                            "FirstName": "Dmitry",
+                            "JerseyNumber": "9",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:59",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:35",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:46",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "4882",
+                            "LastName": "Johansson",
+                            "FirstName": "Marcus",
+                            "JerseyNumber": "90",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:47",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "WSH",
+                        "goalScorer": {
+                            "ID": "4547",
+                            "LastName": "Oshie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "77",
+                            "Position": "RW"
+                        },
+                        "assist1Player": {
+                            "ID": "4882",
+                            "LastName": "Johansson",
+                            "FirstName": "Marcus",
+                            "JerseyNumber": "90",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:47",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:55",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5225",
+                            "LastName": "Wilson",
+                            "FirstName": "Tom",
+                            "JerseyNumber": "43",
+                            "Position": "RW"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:16",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "5225",
+                            "LastName": "Wilson",
+                            "FirstName": "Tom",
+                            "JerseyNumber": "43",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:21",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:35",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:36",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:15",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5914",
+                            "LastName": "Gravel",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "53",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:31",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:51",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4597",
+                            "LastName": "Lewis",
+                            "FirstName": "Trevor",
+                            "JerseyNumber": "22",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:52",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "11472",
+                            "LastName": "Vrana",
+                            "FirstName": "Jakub",
+                            "JerseyNumber": "13",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:54",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:16",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:59",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "2",
+                    "time": "5:07",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "5004",
+                            "LastName": "Connolly",
+                            "FirstName": "Brett",
+                            "JerseyNumber": "10",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:08",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "196",
+                            "LastName": "Williams",
+                            "FirstName": "Justin",
+                            "JerseyNumber": "14",
+                            "Position": "RW"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "5:27",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4888",
+                            "LastName": "Muzzin",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "5:50",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5292",
+                            "LastName": "Pearson",
+                            "FirstName": "Tanner",
+                            "JerseyNumber": "70",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:51",
+                    "penalty": {
+                        "teamAbbreviation": "WSH",
+                        "penalizedPlayer": {
+                            "ID": "4901",
+                            "LastName": "Shattenkirk",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Delay Of Game"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:51",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4456",
+                            "LastName": "Beagle",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "83",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "411",
+                            "LastName": "Iginla",
+                            "FirstName": "Jarome",
+                            "JerseyNumber": "88",
+                            "Position": "RW"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:05",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "411",
+                            "LastName": "Iginla",
+                            "FirstName": "Jarome",
+                            "JerseyNumber": "88",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "6:45",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:49",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "4510",
+                            "LastName": "Doughty",
+                            "FirstName": "Drew",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:50",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:20",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "LAK",
+                        "goalScorer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "4888",
+                            "LastName": "Muzzin",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:20",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "7:58",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "8:15",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "5225",
+                            "LastName": "Wilson",
+                            "FirstName": "Tom",
+                            "JerseyNumber": "43",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "8:37",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:43",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "5292",
+                            "LastName": "Pearson",
+                            "FirstName": "Tanner",
+                            "JerseyNumber": "70",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:08",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4300",
+                            "LastName": "Niskanen",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:16",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "5914",
+                            "LastName": "Gravel",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "53",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:27",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:49",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5465",
+                            "LastName": "Andreoff",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "15",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:05",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5465",
+                            "LastName": "Andreoff",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "15",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:13",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4889",
+                            "LastName": "Clifford",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "13",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:32",
+                    "penalty": {
+                        "teamAbbreviation": "WSH",
+                        "penalizedPlayer": {
+                            "ID": "4456",
+                            "LastName": "Beagle",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "83",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Hooking"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:32",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4547",
+                            "LastName": "Oshie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "77",
+                            "Position": "RW"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:20",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "5292",
+                            "LastName": "Pearson",
+                            "FirstName": "Tanner",
+                            "JerseyNumber": "70",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:21",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:40",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "4512",
+                            "LastName": "Martinez",
+                            "FirstName": "Alec",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:02",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4554",
+                            "LastName": "Alzner",
+                            "FirstName": "Karl",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                null,
+                null,
+                {
+                    "period": "2",
+                    "time": "14:07",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:28",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4597",
+                            "LastName": "Lewis",
+                            "FirstName": "Trevor",
+                            "JerseyNumber": "22",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:28",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "277",
+                            "LastName": "Brown",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "23",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:36",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "5004",
+                            "LastName": "Connolly",
+                            "FirstName": "Brett",
+                            "JerseyNumber": "10",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:48",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:14",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:36",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:08",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5465",
+                            "LastName": "Andreoff",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "15",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:52",
+                    "penalty": {
+                        "teamAbbreviation": "LAK",
+                        "penalizedPlayer": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Holding"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:52",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "17:26",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4510",
+                            "LastName": "Doughty",
+                            "FirstName": "Drew",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:05",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "277",
+                            "LastName": "Brown",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "23",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "19:56",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "411",
+                            "LastName": "Iginla",
+                            "FirstName": "Jarome",
+                            "JerseyNumber": "88",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "1:12",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "1:43",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:32",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4889",
+                            "LastName": "Clifford",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "13",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:44",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5813",
+                            "LastName": "Forbort",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "24",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "3:11",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5465",
+                            "LastName": "Andreoff",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "15",
+                            "Position": "LW"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "3:48",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:25",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:49",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "7:07",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "3",
+                    "time": "7:36",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "7:58",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:04",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "277",
+                            "LastName": "Brown",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "23",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:12",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "5004",
+                            "LastName": "Connolly",
+                            "FirstName": "Brett",
+                            "JerseyNumber": "10",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:16",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4547",
+                            "LastName": "Oshie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "77",
+                            "Position": "RW"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:46",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "LAK",
+                        "goalScorer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "assist1Player": {
+                            "ID": "5914",
+                            "LastName": "Gravel",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "53",
+                            "Position": "D"
+                        },
+                        "assist2Player": {
+                            "ID": "4512",
+                            "LastName": "Martinez",
+                            "FirstName": "Alec",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:46",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:07",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "411",
+                            "LastName": "Iginla",
+                            "FirstName": "Jarome",
+                            "JerseyNumber": "88",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:25",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:33",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "9007",
+                            "LastName": "Dowd",
+                            "FirstName": "Nic",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:37",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "4554",
+                            "LastName": "Alzner",
+                            "FirstName": "Karl",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "10:37",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "4901",
+                            "LastName": "Shattenkirk",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:38",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:25",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "4888",
+                            "LastName": "Muzzin",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:22",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:34",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "14:04",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "14:07",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "4510",
+                            "LastName": "Doughty",
+                            "FirstName": "Drew",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "14:08",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4264",
+                            "LastName": "Backstrom",
+                            "FirstName": "Nicklas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "11731",
+                            "LastName": "Kempe",
+                            "FirstName": "Adrian",
+                            "JerseyNumber": "39",
+                            "Position": "LW"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "14:17",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "277",
+                            "LastName": "Brown",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "23",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "14:53",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4547",
+                            "LastName": "Oshie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "77",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:57",
+                    "penalty": {
+                        "teamAbbreviation": "WSH",
+                        "penalizedPlayer": {
+                            "ID": "4901",
+                            "LastName": "Shattenkirk",
+                            "FirstName": "Kevin",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Charging"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:57",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "16:08",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "16:23",
+                    "shot": {
+                        "teamAbbreviation": "LAK",
+                        "shooter": {
+                            "ID": "4033",
+                            "LastName": "Kopitar",
+                            "FirstName": "Anze",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:02",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "479",
+                            "LastName": "Orpik",
+                            "FirstName": "Brooks",
+                            "JerseyNumber": "44",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:10",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "4281",
+                            "LastName": "Winnik",
+                            "FirstName": "Daniel",
+                            "JerseyNumber": "26",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:12",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4597",
+                            "LastName": "Lewis",
+                            "FirstName": "Trevor",
+                            "JerseyNumber": "22",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:30",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "5225",
+                            "LastName": "Wilson",
+                            "FirstName": "Tom",
+                            "JerseyNumber": "43",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:25",
+                    "goalieChange": {
+                        "teamAbbreviation": "WSH",
+                        "outgoingGoalie": {
+                            "ID": "5176",
+                            "LastName": "Grubauer",
+                            "FirstName": "Philipp",
+                            "JerseyNumber": "31",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:33",
+                    "hit": {
+                        "teamAbbreviation": "LAK",
+                        "player": {
+                            "ID": "5813",
+                            "LastName": "Forbort",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "24",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:56",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "196",
+                            "LastName": "Williams",
+                            "FirstName": "Justin",
+                            "JerseyNumber": "14",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:57",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:19",
+                    "shot": {
+                        "teamAbbreviation": "WSH",
+                        "shooter": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:25",
+                    "penalty": {
+                        "teamAbbreviation": "WSH",
+                        "penalizedPlayer": {
+                            "ID": "5344",
+                            "LastName": "Kuznetsov",
+                            "FirstName": "Evgeny",
+                            "JerseyNumber": "92",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Slashing"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:25",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4456",
+                            "LastName": "Beagle",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "83",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "WSH"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:25",
+                    "goalieChange": {
+                        "teamAbbreviation": "WSH",
+                        "incomingGoalie": {
+                            "ID": "5176",
+                            "LastName": "Grubauer",
+                            "FirstName": "Philipp",
+                            "JerseyNumber": "31",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:37",
+                    "goalieChange": {
+                        "teamAbbreviation": "WSH",
+                        "outgoingGoalie": {
+                            "ID": "5176",
+                            "LastName": "Grubauer",
+                            "FirstName": "Philipp",
+                            "JerseyNumber": "31",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:48",
+                    "hit": {
+                        "teamAbbreviation": "WSH",
+                        "player": {
+                            "ID": "3495",
+                            "LastName": "Ovechkin",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "8",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:58",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4723",
+                            "LastName": "Eller",
+                            "FirstName": "Lars",
+                            "JerseyNumber": "20",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "wonBy": "LAK"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:58",
+                    "goal": {
+                        "specialTeam": "PP (EN)",
+                        "teamAbbreviation": "LAK",
+                        "goalScorer": {
+                            "ID": "3488",
+                            "LastName": "Carter",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "77",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "5191",
+                            "LastName": "Toffoli",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "73",
+                            "Position": "RW"
+                        },
+                        "assist2Player": {
+                            "ID": "5292",
+                            "LastName": "Pearson",
+                            "FirstName": "Tanner",
+                            "JerseyNumber": "70",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:58",
+                    "goalieChange": {
+                        "teamAbbreviation": "WSH",
+                        "incomingGoalie": {
+                            "ID": "5176",
+                            "LastName": "Grubauer",
+                            "FirstName": "Philipp",
+                            "JerseyNumber": "31",
+                            "Position": "G"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

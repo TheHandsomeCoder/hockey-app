@@ -1,0 +1,2874 @@
+{
+    "gameplaybyplay": {
+        "lastUpdatedOn": "2017-03-11 10:54:32 PM",
+        "game": {
+            "date": "2017-03-11",
+            "time": "7:00PM",
+            "awayTeam": {
+                "ID": "23",
+                "City": "Calgary",
+                "Name": "Flames",
+                "Abbreviation": "CGY"
+            },
+            "homeTeam": {
+                "ID": "47",
+                "City": "Winnipeg",
+                "Name": "Jets",
+                "Abbreviation": "WPJ"
+            },
+            "location": "MTS Centre"
+        },
+        "plays": {
+            "play": [
+                {
+                    "period": "1",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:07",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:11",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "3874",
+                            "LastName": "Byfuglien",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:06",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:18",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "5478",
+                            "LastName": "Ferland",
+                            "FirstName": "Micheal",
+                            "JerseyNumber": "79",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "1:29",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:53",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "4967",
+                            "LastName": "Postma",
+                            "FirstName": "Paul",
+                            "JerseyNumber": "4",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:54",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5430",
+                            "LastName": "Petan",
+                            "FirstName": "Nicolas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:27",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "4949",
+                            "LastName": "Bouma",
+                            "FirstName": "Lance",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:36",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "5200",
+                            "LastName": "Chiasson",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "39",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:43",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "3672",
+                            "LastName": "Wideman",
+                            "FirstName": "Dennis",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:01",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:13",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4725",
+                            "LastName": "Engelland",
+                            "FirstName": "Deryk",
+                            "JerseyNumber": "29",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:39",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:46",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "9632",
+                            "LastName": "Tkachuk",
+                            "FirstName": "Matthew",
+                            "JerseyNumber": "19",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:53",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "5:21",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "9628",
+                            "LastName": "Laine",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "29",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "5:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5430",
+                            "LastName": "Petan",
+                            "FirstName": "Nicolas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "5:56",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "3629",
+                            "LastName": "Stuart",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:08",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "4725",
+                            "LastName": "Engelland",
+                            "FirstName": "Deryk",
+                            "JerseyNumber": "29",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "8:22",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:40",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:19",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "3874",
+                            "LastName": "Byfuglien",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:25",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "4430",
+                            "LastName": "Wheeler",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "26",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "9:59",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "9632",
+                            "LastName": "Tkachuk",
+                            "FirstName": "Matthew",
+                            "JerseyNumber": "19",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:15",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:18",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5232",
+                            "LastName": "Trouba",
+                            "FirstName": "Jacob",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:19",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:47",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:56",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "3861",
+                            "LastName": "Giordano",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:16",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "4430",
+                            "LastName": "Wheeler",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "26",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:18",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:59",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "4878",
+                            "LastName": "Brodie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "7",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:04",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "4185",
+                            "LastName": "Brouwer",
+                            "FirstName": "Troy",
+                            "JerseyNumber": "36",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "13:07",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "3861",
+                            "LastName": "Giordano",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "13:08",
+                    "penalty": {
+                        "teamAbbreviation": "WPJ",
+                        "penalizedPlayer": {
+                            "ID": "5285",
+                            "LastName": "Chiarot",
+                            "FirstName": "Ben",
+                            "JerseyNumber": "7",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Interference"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "13:08",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "13:51",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "9632",
+                            "LastName": "Tkachuk",
+                            "FirstName": "Matthew",
+                            "JerseyNumber": "19",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "14:06",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "CGY",
+                        "goalScorer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "4507",
+                            "LastName": "Frolik",
+                            "FirstName": "Michael",
+                            "JerseyNumber": "67",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "4994",
+                            "LastName": "Hamilton",
+                            "FirstName": "Dougie",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "14:06",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "14:33",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "17:39",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "18:23",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "5383",
+                            "LastName": "Gaudreau",
+                            "FirstName": "Johnny",
+                            "JerseyNumber": "13",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:29",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "18:51",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4346",
+                            "LastName": "Versteeg",
+                            "FirstName": "Kris",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:55",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "3874",
+                            "LastName": "Byfuglien",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "19:57",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "9632",
+                            "LastName": "Tkachuk",
+                            "FirstName": "Matthew",
+                            "JerseyNumber": "19",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:48",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "3874",
+                            "LastName": "Byfuglien",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:15",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:47",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:28",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5232",
+                            "LastName": "Trouba",
+                            "FirstName": "Jacob",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:27",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5450",
+                            "LastName": "Dano",
+                            "FirstName": "Marko",
+                            "JerseyNumber": "56",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:28",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "3:52",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5232",
+                            "LastName": "Trouba",
+                            "FirstName": "Jacob",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:18",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "4967",
+                            "LastName": "Postma",
+                            "FirstName": "Paul",
+                            "JerseyNumber": "4",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:19",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:10",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "5478",
+                            "LastName": "Ferland",
+                            "FirstName": "Micheal",
+                            "JerseyNumber": "79",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:11",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:41",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "5285",
+                            "LastName": "Chiarot",
+                            "FirstName": "Ben",
+                            "JerseyNumber": "7",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:11",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "4353",
+                            "LastName": "Matthias",
+                            "FirstName": "Shawn",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "2",
+                    "time": "7:06",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5419",
+                            "LastName": "Ehlers",
+                            "FirstName": "Nikolaj",
+                            "JerseyNumber": "27",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:17",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5285",
+                            "LastName": "Chiarot",
+                            "FirstName": "Ben",
+                            "JerseyNumber": "7",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:22",
+                    "penalty": {
+                        "teamAbbreviation": "CGY",
+                        "penalizedPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Tripping"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:22",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "9:35",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:38",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5555",
+                            "LastName": "Copp",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "9",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:47",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "5478",
+                            "LastName": "Ferland",
+                            "FirstName": "Micheal",
+                            "JerseyNumber": "79",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:50",
+                    "penalty": {
+                        "teamAbbreviation": "WPJ",
+                        "penalizedPlayer": {
+                            "ID": "5285",
+                            "LastName": "Chiarot",
+                            "FirstName": "Ben",
+                            "JerseyNumber": "7",
+                            "Position": "D"
+                        },
+                        "severity": "Double Minor",
+                        "durationMinutes": "2",
+                        "type": "High-Sticking"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:50",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:59",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "3861",
+                            "LastName": "Giordano",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:10",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4994",
+                            "LastName": "Hamilton",
+                            "FirstName": "Dougie",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "10:34",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:40",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4346",
+                            "LastName": "Versteeg",
+                            "FirstName": "Kris",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:41",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:58",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "3874",
+                            "LastName": "Byfuglien",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "11:48",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5555",
+                            "LastName": "Copp",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "9",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:50",
+                    "penalty": {
+                        "teamAbbreviation": "WPJ",
+                        "penalizedPlayer": {
+                            "ID": "5285",
+                            "LastName": "Chiarot",
+                            "FirstName": "Ben",
+                            "JerseyNumber": "7",
+                            "Position": "D"
+                        },
+                        "durationMinutes": "2",
+                        "type": "High-Sticking"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "12:06",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4994",
+                            "LastName": "Hamilton",
+                            "FirstName": "Dougie",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:09",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "CGY",
+                        "goalScorer": {
+                            "ID": "4507",
+                            "LastName": "Frolik",
+                            "FirstName": "Michael",
+                            "JerseyNumber": "67",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "9632",
+                            "LastName": "Tkachuk",
+                            "FirstName": "Matthew",
+                            "JerseyNumber": "19",
+                            "Position": "LW"
+                        },
+                        "assist2Player": {
+                            "ID": "4994",
+                            "LastName": "Hamilton",
+                            "FirstName": "Dougie",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:09",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:31",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "4949",
+                            "LastName": "Bouma",
+                            "FirstName": "Lance",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:56",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "9628",
+                            "LastName": "Laine",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "29",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:14",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:24",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:32",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "4185",
+                            "LastName": "Brouwer",
+                            "FirstName": "Troy",
+                            "JerseyNumber": "36",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:35",
+                    "penalty": {
+                        "teamAbbreviation": "WPJ",
+                        "penalizedPlayer": {
+                            "ID": "5419",
+                            "LastName": "Ehlers",
+                            "FirstName": "Nikolaj",
+                            "JerseyNumber": "27",
+                            "Position": "RW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "High-Sticking"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:11",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5555",
+                            "LastName": "Copp",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "9",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:17",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5555",
+                            "LastName": "Copp",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "9",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:21",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5232",
+                            "LastName": "Trouba",
+                            "FirstName": "Jacob",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "15:38",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4507",
+                            "LastName": "Frolik",
+                            "FirstName": "Michael",
+                            "JerseyNumber": "67",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:52",
+                    "goalieChange": {
+                        "teamAbbreviation": "CGY",
+                        "outgoingGoalie": {
+                            "ID": "4305",
+                            "LastName": "Elliott",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "1",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:53",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4725",
+                            "LastName": "Engelland",
+                            "FirstName": "Deryk",
+                            "JerseyNumber": "29",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:55",
+                    "penalty": {
+                        "teamAbbreviation": "WPJ",
+                        "penalizedPlayer": {
+                            "ID": "3874",
+                            "LastName": "Byfuglien",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "High-Sticking"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:55",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:55",
+                    "goalieChange": {
+                        "teamAbbreviation": "CGY",
+                        "incomingGoalie": {
+                            "ID": "4305",
+                            "LastName": "Elliott",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "1",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:54",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4878",
+                            "LastName": "Brodie",
+                            "FirstName": "T.J.",
+                            "JerseyNumber": "7",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:55",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4507",
+                            "LastName": "Frolik",
+                            "FirstName": "Michael",
+                            "JerseyNumber": "67",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5555",
+                            "LastName": "Copp",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "9",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:44",
+                    "hit": {
+                        "teamAbbreviation": "CGY",
+                        "player": {
+                            "ID": "3861",
+                            "LastName": "Giordano",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "18:23",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4346",
+                            "LastName": "Versteeg",
+                            "FirstName": "Kris",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:38",
+                    "penalty": {
+                        "teamAbbreviation": "CGY",
+                        "penalizedPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "severity": "Major",
+                        "durationMinutes": "5",
+                        "type": "Fighting"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:38",
+                    "penalty": {
+                        "teamAbbreviation": "WPJ",
+                        "penalizedPlayer": {
+                            "ID": "5232",
+                            "LastName": "Trouba",
+                            "FirstName": "Jacob",
+                            "JerseyNumber": "8",
+                            "Position": "D"
+                        },
+                        "severity": "Major",
+                        "durationMinutes": "5",
+                        "type": "Fighting"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:38",
+                    "penalty": {
+                        "teamAbbreviation": "CGY",
+                        "penalizedPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Slashing"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:38",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:40",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "3874",
+                            "LastName": "Byfuglien",
+                            "FirstName": "Dustin",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:41",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:53",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:55",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:29",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:43",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:44",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:52",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5419",
+                            "LastName": "Ehlers",
+                            "FirstName": "Nikolaj",
+                            "JerseyNumber": "27",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:53",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "1:53",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "3629",
+                            "LastName": "Stuart",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "1:55",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "9628",
+                            "LastName": "Laine",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "29",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:47",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "3:24",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "CGY",
+                        "goalScorer": {
+                            "ID": "5200",
+                            "LastName": "Chiasson",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "39",
+                            "Position": "RW"
+                        },
+                        "assist1Player": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "4994",
+                            "LastName": "Hamilton",
+                            "FirstName": "Dougie",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "3:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "3:36",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "3:51",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4507",
+                            "LastName": "Frolik",
+                            "FirstName": "Michael",
+                            "JerseyNumber": "67",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:07",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "9628",
+                            "LastName": "Laine",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "29",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:17",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "4720",
+                            "LastName": "Perreault",
+                            "FirstName": "Mathieu",
+                            "JerseyNumber": "85",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "4:26",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:57",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "9628",
+                            "LastName": "Laine",
+                            "FirstName": "Patrik",
+                            "JerseyNumber": "29",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:17",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:01",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:03",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:35",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "3672",
+                            "LastName": "Wideman",
+                            "FirstName": "Dennis",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:41",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5930",
+                            "LastName": "Morrissey",
+                            "FirstName": "Joshua",
+                            "JerseyNumber": "44",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:42",
+                    "penalty": {
+                        "teamAbbreviation": "CGY",
+                        "penalizedPlayer": {
+                            "ID": "4305",
+                            "LastName": "Elliott",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "1",
+                            "Position": "G"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Roughing"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:42",
+                    "penalty": {
+                        "teamAbbreviation": "WPJ",
+                        "penalizedPlayer": {
+                            "ID": "5930",
+                            "LastName": "Morrissey",
+                            "FirstName": "Joshua",
+                            "JerseyNumber": "44",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Unsportsmanlike Conduct"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:42",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "7:43",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "7:44",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4346",
+                            "LastName": "Versteeg",
+                            "FirstName": "Kris",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:53",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4994",
+                            "LastName": "Hamilton",
+                            "FirstName": "Dougie",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:17",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4994",
+                            "LastName": "Hamilton",
+                            "FirstName": "Dougie",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:18",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:37",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "5505",
+                            "LastName": "Armia",
+                            "FirstName": "Joel",
+                            "JerseyNumber": "40",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:59",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:04",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5242",
+                            "LastName": "Monahan",
+                            "FirstName": "Sean",
+                            "JerseyNumber": "23",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5003",
+                            "LastName": "Scheifele",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "55",
+                            "Position": "C"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:14",
+                    "shot": {
+                        "teamAbbreviation": "CGY",
+                        "shooter": {
+                            "ID": "4346",
+                            "LastName": "Versteeg",
+                            "FirstName": "Kris",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:15",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:23",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "4720",
+                            "LastName": "Perreault",
+                            "FirstName": "Mathieu",
+                            "JerseyNumber": "85",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5415",
+                            "LastName": "Bennett",
+                            "FirstName": "Sam",
+                            "JerseyNumber": "93",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4297",
+                            "LastName": "Little",
+                            "FirstName": "Bryan",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:39",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "CGY"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:59",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5555",
+                            "LastName": "Copp",
+                            "FirstName": "Andrew",
+                            "JerseyNumber": "9",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "12:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5430",
+                            "LastName": "Petan",
+                            "FirstName": "Nicolas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:42",
+                    "penalty": {
+                        "teamAbbreviation": "CGY",
+                        "penalizedPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Slashing"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:42",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5430",
+                            "LastName": "Petan",
+                            "FirstName": "Nicolas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "14:43",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5505",
+                            "LastName": "Armia",
+                            "FirstName": "Joel",
+                            "JerseyNumber": "40",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "16:04",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "4720",
+                            "LastName": "Perreault",
+                            "FirstName": "Mathieu",
+                            "JerseyNumber": "85",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "16:25",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5430",
+                            "LastName": "Petan",
+                            "FirstName": "Nicolas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "16:32",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "590",
+                            "LastName": "Stajan",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5430",
+                            "LastName": "Petan",
+                            "FirstName": "Nicolas",
+                            "JerseyNumber": "19",
+                            "Position": "C"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:11",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "3629",
+                            "LastName": "Stuart",
+                            "FirstName": "Mark",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:24",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "4720",
+                            "LastName": "Perreault",
+                            "FirstName": "Mathieu",
+                            "JerseyNumber": "85",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:02",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "5450",
+                            "LastName": "Dano",
+                            "FirstName": "Marko",
+                            "JerseyNumber": "56",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:11",
+                    "hit": {
+                        "teamAbbreviation": "WPJ",
+                        "player": {
+                            "ID": "5450",
+                            "LastName": "Dano",
+                            "FirstName": "Marko",
+                            "JerseyNumber": "56",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:53",
+                    "shot": {
+                        "teamAbbreviation": "WPJ",
+                        "shooter": {
+                            "ID": "5505",
+                            "LastName": "Armia",
+                            "FirstName": "Joel",
+                            "JerseyNumber": "40",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:54",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4609",
+                            "LastName": "Backlund",
+                            "FirstName": "Mikael",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5456",
+                            "LastName": "Lowry",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "17",
+                            "Position": "LW"
+                        },
+                        "wonBy": "WPJ"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,2969 @@
+{
+    "gameplaybyplay": {
+        "lastUpdatedOn": "2017-03-11 11:58:15 PM",
+        "game": {
+            "date": "2017-03-11",
+            "time": "7:00PM",
+            "awayTeam": {
+                "ID": "12",
+                "City": "Toronto",
+                "Name": "Maple Leafs",
+                "Abbreviation": "TOR"
+            },
+            "homeTeam": {
+                "ID": "3",
+                "City": "Carolina",
+                "Name": "Hurricanes",
+                "Abbreviation": "CAR"
+            },
+            "location": "PNC Arena"
+        },
+        "plays": {
+            "play": [
+                {
+                    "period": "1",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:07",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:09",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:18",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:47",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4052",
+                            "LastName": "Polak",
+                            "FirstName": "Roman",
+                            "JerseyNumber": "46",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:54",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5009",
+                            "LastName": "Faulk",
+                            "FirstName": "Justin",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:55",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:01",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5630",
+                            "LastName": "Aho",
+                            "FirstName": "Sebastian",
+                            "JerseyNumber": "20",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:02",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:38",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:47",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:56",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5305",
+                            "LastName": "Marincin",
+                            "FirstName": "Martin",
+                            "JerseyNumber": "52",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "2:41",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "4876",
+                            "LastName": "Skinner",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "53",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:42",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5305",
+                            "LastName": "Marincin",
+                            "FirstName": "Martin",
+                            "JerseyNumber": "52",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:54",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5925",
+                            "LastName": "Soshnikov",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "26",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:01",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5925",
+                            "LastName": "Soshnikov",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "26",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:09",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4767",
+                            "LastName": "Martin",
+                            "FirstName": "Matthew",
+                            "JerseyNumber": "15",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:48",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:09",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:14",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:33",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:52",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "5:47",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5009",
+                            "LastName": "Faulk",
+                            "FirstName": "Justin",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:01",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5493",
+                            "LastName": "Dahlbeck",
+                            "FirstName": "Klas",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:02",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:20",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "5261",
+                            "LastName": "Rielly",
+                            "FirstName": "Morgan",
+                            "JerseyNumber": "44",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:35",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:06",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4331",
+                            "LastName": "Hunwick",
+                            "FirstName": "Matt",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "8:16",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:59",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "CAR",
+                        "goalScorer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "5845",
+                            "LastName": "Pesce",
+                            "FirstName": "Brett",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:59",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:19",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:24",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "4683",
+                            "LastName": "van Riemsdyk",
+                            "FirstName": "James",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:26",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:33",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "4683",
+                            "LastName": "van Riemsdyk",
+                            "FirstName": "James",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:37",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5493",
+                            "LastName": "Dahlbeck",
+                            "FirstName": "Klas",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:40",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5251",
+                            "LastName": "Nordstrom",
+                            "FirstName": "Joakim",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:52",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "TOR",
+                        "goalScorer": {
+                            "ID": "5599",
+                            "LastName": "Marner",
+                            "FirstName": "Mitchell",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "4683",
+                            "LastName": "van Riemsdyk",
+                            "FirstName": "James",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:52",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:09",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:24",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:44",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5600",
+                            "LastName": "Hanifin",
+                            "FirstName": "Noah",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "11:25",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "8916",
+                            "LastName": "Brown",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "12",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:39",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:42",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:53",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:14",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "4683",
+                            "LastName": "van Riemsdyk",
+                            "FirstName": "James",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "12:39",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "5418",
+                            "LastName": "Nylander",
+                            "FirstName": "William",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:59",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "17:12",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5251",
+                            "LastName": "Nordstrom",
+                            "FirstName": "Joakim",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "17:43",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:04",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "18:23",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:41",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "4876",
+                            "LastName": "Skinner",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "53",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:52",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:01",
+                    "penalty": {
+                        "teamAbbreviation": "TOR",
+                        "penalizedPlayer": {
+                            "ID": "10057",
+                            "LastName": "Zaitsev",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Crosschecking"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:01",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "19:17",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "0:45",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:45",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "CAR",
+                        "goalScorer": {
+                            "ID": "5355",
+                            "LastName": "Teravainen",
+                            "FirstName": "Teuvo",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "5009",
+                            "LastName": "Faulk",
+                            "FirstName": "Justin",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "1:29",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:46",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5600",
+                            "LastName": "Hanifin",
+                            "FirstName": "Noah",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "2:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:37",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:45",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "5418",
+                            "LastName": "Nylander",
+                            "FirstName": "William",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:56",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5457",
+                            "LastName": "Brown",
+                            "FirstName": "Patrick",
+                            "JerseyNumber": "36",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "3:42",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5261",
+                            "LastName": "Rielly",
+                            "FirstName": "Morgan",
+                            "JerseyNumber": "44",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:50",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5845",
+                            "LastName": "Pesce",
+                            "FirstName": "Brett",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:55",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:00",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "4876",
+                            "LastName": "Skinner",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "53",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:23",
+                    "penalty": {
+                        "teamAbbreviation": "CAR",
+                        "penalizedPlayer": {
+                            "ID": "3500",
+                            "LastName": "Ward",
+                            "FirstName": "Cam",
+                            "JerseyNumber": "30",
+                            "Position": "G"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Interference"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:23",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:40",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:40",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:41",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:28",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "5006",
+                            "LastName": "Gardiner",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "51",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:29",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "6:33",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:37",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:37",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "TOR",
+                        "goalScorer": {
+                            "ID": "4683",
+                            "LastName": "van Riemsdyk",
+                            "FirstName": "James",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:48",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "8:06",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "8:55",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5866",
+                            "LastName": "Slavin",
+                            "FirstName": "Jaccob",
+                            "JerseyNumber": "74",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:16",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4052",
+                            "LastName": "Polak",
+                            "FirstName": "Roman",
+                            "JerseyNumber": "46",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:39",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "4767",
+                            "LastName": "Martin",
+                            "FirstName": "Matthew",
+                            "JerseyNumber": "15",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:40",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "10:44",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:33",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:41",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5493",
+                            "LastName": "Dahlbeck",
+                            "FirstName": "Klas",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:47",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5493",
+                            "LastName": "Dahlbeck",
+                            "FirstName": "Klas",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:02",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "12:40",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5845",
+                            "LastName": "Pesce",
+                            "FirstName": "Brett",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "13:19",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5493",
+                            "LastName": "Dahlbeck",
+                            "FirstName": "Klas",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:20",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "13:33",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5925",
+                            "LastName": "Soshnikov",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "26",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:42",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5925",
+                            "LastName": "Soshnikov",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "26",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "14:13",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:36",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:27",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5600",
+                            "LastName": "Hanifin",
+                            "FirstName": "Noah",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:51",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:04",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:50",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "4876",
+                            "LastName": "Skinner",
+                            "FirstName": "Jeff",
+                            "JerseyNumber": "53",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:38",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5925",
+                            "LastName": "Soshnikov",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "26",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:44",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "17:51",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:54",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5600",
+                            "LastName": "Hanifin",
+                            "FirstName": "Noah",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:11",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5599",
+                            "LastName": "Marner",
+                            "FirstName": "Mitchell",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:14",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:29",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5630",
+                            "LastName": "Aho",
+                            "FirstName": "Sebastian",
+                            "JerseyNumber": "20",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:30",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "19:03",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:16",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5493",
+                            "LastName": "Dahlbeck",
+                            "FirstName": "Klas",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:17",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:52",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:58",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:14",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5006",
+                            "LastName": "Gardiner",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "51",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:40",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5355",
+                            "LastName": "Teravainen",
+                            "FirstName": "Teuvo",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:42",
+                    "penalty": {
+                        "teamAbbreviation": "TOR",
+                        "penalizedPlayer": {
+                            "ID": "5305",
+                            "LastName": "Marincin",
+                            "FirstName": "Martin",
+                            "JerseyNumber": "52",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Holding"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:42",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:50",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:53",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "1:53",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5009",
+                            "LastName": "Faulk",
+                            "FirstName": "Justin",
+                            "JerseyNumber": "27",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "1:54",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:13",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5600",
+                            "LastName": "Hanifin",
+                            "FirstName": "Noah",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "3:26",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5630",
+                            "LastName": "Aho",
+                            "FirstName": "Sebastian",
+                            "JerseyNumber": "20",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "3:40",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "10057",
+                            "LastName": "Zaitsev",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:09",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5251",
+                            "LastName": "Nordstrom",
+                            "FirstName": "Joakim",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:15",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "3707",
+                            "LastName": "McClement",
+                            "FirstName": "Jay",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:00",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:10",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:47",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:00",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:07",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:17",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "5925",
+                            "LastName": "Soshnikov",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "26",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:23",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "10057",
+                            "LastName": "Zaitsev",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "7:01",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "5599",
+                            "LastName": "Marner",
+                            "FirstName": "Mitchell",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "7:08",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "7:25",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:19",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "8916",
+                            "LastName": "Brown",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "12",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:28",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5355",
+                            "LastName": "Teravainen",
+                            "FirstName": "Teuvo",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:32",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "8:52",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "3",
+                    "time": "10:06",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:14",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:53",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5251",
+                            "LastName": "Nordstrom",
+                            "FirstName": "Joakim",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:03",
+                    "hit": {
+                        "teamAbbreviation": "CAR",
+                        "player": {
+                            "ID": "5251",
+                            "LastName": "Nordstrom",
+                            "FirstName": "Joakim",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:13",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:27",
+                    "penalty": {
+                        "teamAbbreviation": "CAR",
+                        "penalizedPlayer": {
+                            "ID": "5251",
+                            "LastName": "Nordstrom",
+                            "FirstName": "Joakim",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "High-Sticking"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:27",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:00",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "5599",
+                            "LastName": "Marner",
+                            "FirstName": "Mitchell",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:06",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "10057",
+                            "LastName": "Zaitsev",
+                            "FirstName": "Nikita",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "13:08",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "5006",
+                            "LastName": "Gardiner",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "51",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "14:20",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "14:39",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5600",
+                            "LastName": "Hanifin",
+                            "FirstName": "Noah",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:47",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5866",
+                            "LastName": "Slavin",
+                            "FirstName": "Jaccob",
+                            "JerseyNumber": "74",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:50",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5845",
+                            "LastName": "Pesce",
+                            "FirstName": "Brett",
+                            "JerseyNumber": "22",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:51",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4386",
+                            "LastName": "Boyle",
+                            "FirstName": "Brian",
+                            "JerseyNumber": "24",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "16:40",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5866",
+                            "LastName": "Slavin",
+                            "FirstName": "Jaccob",
+                            "JerseyNumber": "74",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:05",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "4683",
+                            "LastName": "van Riemsdyk",
+                            "FirstName": "James",
+                            "JerseyNumber": "25",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:06",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5260",
+                            "LastName": "Lindholm",
+                            "FirstName": "Elias",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "18:01",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4766",
+                            "LastName": "Kadri",
+                            "FirstName": "Nazem",
+                            "JerseyNumber": "43",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5810",
+                            "LastName": "Ryan",
+                            "FirstName": "Derek",
+                            "JerseyNumber": "33",
+                            "Position": "C"
+                        },
+                        "wonBy": "TOR"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:10",
+                    "hit": {
+                        "teamAbbreviation": "TOR",
+                        "player": {
+                            "ID": "5140",
+                            "LastName": "Komarov",
+                            "FirstName": "Leo",
+                            "JerseyNumber": "47",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "18:53",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5866",
+                            "LastName": "Slavin",
+                            "FirstName": "Jaccob",
+                            "JerseyNumber": "74",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:19",
+                    "shot": {
+                        "teamAbbreviation": "TOR",
+                        "shooter": {
+                            "ID": "9627",
+                            "LastName": "Matthews",
+                            "FirstName": "Auston",
+                            "JerseyNumber": "34",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:50",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5458",
+                            "LastName": "Rask",
+                            "FirstName": "Victor",
+                            "JerseyNumber": "49",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "4",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4686",
+                            "LastName": "Bozak",
+                            "FirstName": "Tyler",
+                            "JerseyNumber": "42",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4029",
+                            "LastName": "Staal",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "11",
+                            "Position": "C"
+                        },
+                        "wonBy": "CAR"
+                    }
+                },
+                {
+                    "period": "4",
+                    "time": "0:20",
+                    "shot": {
+                        "teamAbbreviation": "CAR",
+                        "shooter": {
+                            "ID": "5630",
+                            "LastName": "Aho",
+                            "FirstName": "Sebastian",
+                            "JerseyNumber": "20",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "4",
+                    "time": "2:13",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "TOR",
+                        "goalScorer": {
+                            "ID": "5261",
+                            "LastName": "Rielly",
+                            "FirstName": "Morgan",
+                            "JerseyNumber": "44",
+                            "Position": "D"
+                        },
+                        "assist1Player": {
+                            "ID": "5418",
+                            "LastName": "Nylander",
+                            "FirstName": "William",
+                            "JerseyNumber": "29",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "5006",
+                            "LastName": "Gardiner",
+                            "FirstName": "Jake",
+                            "JerseyNumber": "51",
+                            "Position": "D"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

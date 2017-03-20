@@ -1,0 +1,3423 @@
+{
+    "gameplaybyplay": {
+        "lastUpdatedOn": "2017-03-12 12:01:39 AM",
+        "game": {
+            "date": "2017-03-11",
+            "time": "8:00PM",
+            "awayTeam": {
+                "ID": "7",
+                "City": "New Jersey",
+                "Name": "Devils",
+                "Abbreviation": "NJD"
+            },
+            "homeTeam": {
+                "ID": "30",
+                "City": "Arizona",
+                "Name": "Coyotes",
+                "Abbreviation": "ARI"
+            },
+            "location": "Jobing.com Arena"
+        },
+        "plays": {
+            "play": [
+                {
+                    "period": "1",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "0:43",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4552",
+                            "LastName": "Schenn",
+                            "FirstName": "Luke",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:08",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "9078",
+                            "LastName": "Santini",
+                            "FirstName": "Steven",
+                            "JerseyNumber": "34",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:25",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5293",
+                            "LastName": "Murphy",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:27",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:27",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "ARI",
+                        "goalScorer": {
+                            "ID": "250",
+                            "LastName": "Vrbata",
+                            "FirstName": "Radim",
+                            "JerseyNumber": "17",
+                            "Position": "RW"
+                        },
+                        "assist1Player": {
+                            "ID": "5412",
+                            "LastName": "Domi",
+                            "FirstName": "Max",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "5293",
+                            "LastName": "Murphy",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:27",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:47",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "9079",
+                            "LastName": "Wood",
+                            "FirstName": "Miles",
+                            "JerseyNumber": "44",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "1:49",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:01",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "9048",
+                            "LastName": "Pietila",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "56",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:23",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "11702",
+                            "LastName": "Coleman",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "40",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:25",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5482",
+                            "LastName": "Rieder",
+                            "FirstName": "Tobias",
+                            "JerseyNumber": "8",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:33",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5482",
+                            "LastName": "Rieder",
+                            "FirstName": "Tobias",
+                            "JerseyNumber": "8",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5482",
+                            "LastName": "Rieder",
+                            "FirstName": "Tobias",
+                            "JerseyNumber": "8",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:53",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "ARI",
+                        "goalScorer": {
+                            "ID": "5482",
+                            "LastName": "Rieder",
+                            "FirstName": "Tobias",
+                            "JerseyNumber": "8",
+                            "Position": "C"
+                        },
+                        "assist1Player": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "2:53",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:18",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:30",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:48",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "547",
+                            "LastName": "Doan",
+                            "FirstName": "Shane",
+                            "JerseyNumber": "19",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "3:49",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "4:13",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4564",
+                            "LastName": "McGinn",
+                            "FirstName": "Jamie",
+                            "JerseyNumber": "88",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "5:13",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "6:19",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:36",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4959",
+                            "LastName": "Moore",
+                            "FirstName": "John",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:43",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:47",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "9078",
+                            "LastName": "Santini",
+                            "FirstName": "Steven",
+                            "JerseyNumber": "34",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "6:48",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:41",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "9642",
+                            "LastName": "Chychrun",
+                            "FirstName": "Jakob",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:45",
+                    "penalty": {
+                        "teamAbbreviation": "ARI",
+                        "penalizedPlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Roughing"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:45",
+                    "penalty": {
+                        "teamAbbreviation": "NJD",
+                        "penalizedPlayer": {
+                            "ID": "9048",
+                            "LastName": "Pietila",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "56",
+                            "Position": "LW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Roughing"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "7:45",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "8:01",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4552",
+                            "LastName": "Schenn",
+                            "FirstName": "Luke",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:16",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "9079",
+                            "LastName": "Wood",
+                            "FirstName": "Miles",
+                            "JerseyNumber": "44",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "9:17",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:32",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "11702",
+                            "LastName": "Coleman",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "40",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:39",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:40",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5293",
+                            "LastName": "Murphy",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:50",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:51",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "10:57",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:05",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4218",
+                            "LastName": "Greene",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:15",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:15",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "4866",
+                            "LastName": "Ekman-Larsson",
+                            "FirstName": "Oliver",
+                            "JerseyNumber": "23",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "11:49",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "5453",
+                            "LastName": "Severson",
+                            "FirstName": "Damon",
+                            "JerseyNumber": "28",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "12:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "13:19",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "9078",
+                            "LastName": "Santini",
+                            "FirstName": "Steven",
+                            "JerseyNumber": "34",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "13:24",
+                    "penalty": {
+                        "teamAbbreviation": "ARI",
+                        "penalizedPlayer": {
+                            "ID": "5412",
+                            "LastName": "Domi",
+                            "FirstName": "Max",
+                            "JerseyNumber": "16",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Interference"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "13:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                null,
+                {
+                    "period": "1",
+                    "time": "13:50",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4846",
+                            "LastName": "Hall",
+                            "FirstName": "Taylor",
+                            "JerseyNumber": "9",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:24",
+                    "penalty": {
+                        "teamAbbreviation": "NJD",
+                        "penalizedPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Holding"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "15:59",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "16:24",
+                    "penalty": {
+                        "teamAbbreviation": "ARI",
+                        "penalizedPlayer": {
+                            "ID": "250",
+                            "LastName": "Vrbata",
+                            "FirstName": "Radim",
+                            "JerseyNumber": "17",
+                            "Position": "RW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Crosschecking"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "16:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "16:40",
+                    "penalty": {
+                        "teamAbbreviation": "NJD",
+                        "penalizedPlayer": {
+                            "ID": "4846",
+                            "LastName": "Hall",
+                            "FirstName": "Taylor",
+                            "JerseyNumber": "9",
+                            "Position": "LW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Slashing"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "16:40",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "1",
+                    "time": "17:51",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4218",
+                            "LastName": "Greene",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:04",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5424",
+                            "LastName": "DeAngelo",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "77",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:19",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "9079",
+                            "LastName": "Wood",
+                            "FirstName": "Miles",
+                            "JerseyNumber": "44",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:25",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "ARI",
+                        "goalScorer": {
+                            "ID": "9642",
+                            "LastName": "Chychrun",
+                            "FirstName": "Jakob",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        },
+                        "assist1Player": {
+                            "ID": "5482",
+                            "LastName": "Rieder",
+                            "FirstName": "Tobias",
+                            "JerseyNumber": "8",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "18:25",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:06",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:25",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "1",
+                    "time": "19:33",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5441",
+                            "LastName": "Duclair",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:10",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:19",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "0:32",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "1:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "2:11",
+                    "penalty": {
+                        "teamAbbreviation": "NJD",
+                        "penalizedPlayer": {
+                            "ID": "4218",
+                            "LastName": "Greene",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Holding"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "2:11",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "3:23",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "547",
+                            "LastName": "Doan",
+                            "FirstName": "Shane",
+                            "JerseyNumber": "19",
+                            "Position": "RW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:59",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "ARI",
+                        "goalScorer": {
+                            "ID": "11511",
+                            "LastName": "Perlini",
+                            "FirstName": "Brendan",
+                            "JerseyNumber": "29",
+                            "Position": "LW"
+                        },
+                        "assist1Player": {
+                            "ID": "5424",
+                            "LastName": "DeAngelo",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "77",
+                            "Position": "D"
+                        },
+                        "assist2Player": {
+                            "ID": "9642",
+                            "LastName": "Chychrun",
+                            "FirstName": "Jakob",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "3:59",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:13",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:13",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5441",
+                            "LastName": "Duclair",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:13",
+                    "goalieChange": {
+                        "teamAbbreviation": "NJD",
+                        "incomingGoalie": {
+                            "ID": "5180",
+                            "LastName": "Kinkaid",
+                            "FirstName": "Keith",
+                            "JerseyNumber": "1",
+                            "Position": "G"
+                        },
+                        "outgoingGoalie": {
+                            "ID": "4575",
+                            "LastName": "Schneider",
+                            "FirstName": "Cory",
+                            "JerseyNumber": "35",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:36",
+                    "penalty": {
+                        "teamAbbreviation": "ARI",
+                        "penalizedPlayer": {
+                            "ID": "3486",
+                            "LastName": "Smith",
+                            "FirstName": "Mike",
+                            "JerseyNumber": "41",
+                            "Position": "G"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Hooking"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:36",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:42",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "4:43",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:47",
+                    "goal": {
+                        "specialTeam": "PP",
+                        "teamAbbreviation": "NJD",
+                        "goalScorer": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        },
+                        "assist1Player": {
+                            "ID": "4846",
+                            "LastName": "Hall",
+                            "FirstName": "Taylor",
+                            "JerseyNumber": "9",
+                            "Position": "LW"
+                        },
+                        "assist2Player": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:47",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "5:57",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5293",
+                            "LastName": "Murphy",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:05",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5293",
+                            "LastName": "Murphy",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:07",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:16",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "6:17",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                null,
+                null,
+                {
+                    "period": "2",
+                    "time": "6:40",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:02",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4552",
+                            "LastName": "Schenn",
+                            "FirstName": "Luke",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:15",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "11511",
+                            "LastName": "Perlini",
+                            "FirstName": "Brendan",
+                            "JerseyNumber": "29",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "7:16",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "7:44",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "10160",
+                            "LastName": "Lappin",
+                            "FirstName": "Nick",
+                            "JerseyNumber": "36",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "8:16",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5606",
+                            "LastName": "Crouse",
+                            "FirstName": "Lawson",
+                            "JerseyNumber": "67",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "8:29",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4402",
+                            "LastName": "Goligoski",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:32",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "11702",
+                            "LastName": "Coleman",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "40",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "9:54",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "10:20",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:28",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:37",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "10:48",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:57",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "10160",
+                            "LastName": "Lappin",
+                            "FirstName": "Nick",
+                            "JerseyNumber": "36",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "11:58",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:09",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:09",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "NJD",
+                        "goalScorer": {
+                            "ID": "5169",
+                            "LastName": "Bennett",
+                            "FirstName": "Beau",
+                            "JerseyNumber": "8",
+                            "Position": "RW"
+                        },
+                        "assist1Player": {
+                            "ID": "5453",
+                            "LastName": "Severson",
+                            "FirstName": "Damon",
+                            "JerseyNumber": "28",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:19",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "5169",
+                            "LastName": "Bennett",
+                            "FirstName": "Beau",
+                            "JerseyNumber": "8",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "12:21",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:09",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:10",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:25",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "9642",
+                            "LastName": "Chychrun",
+                            "FirstName": "Jakob",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:26",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:28",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5441",
+                            "LastName": "Duclair",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:29",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:39",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "9078",
+                            "LastName": "Santini",
+                            "FirstName": "Steven",
+                            "JerseyNumber": "34",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "13:43",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4564",
+                            "LastName": "McGinn",
+                            "FirstName": "Jamie",
+                            "JerseyNumber": "88",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:15",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:36",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5606",
+                            "LastName": "Crouse",
+                            "FirstName": "Lawson",
+                            "JerseyNumber": "67",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:38",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:43",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4552",
+                            "LastName": "Schenn",
+                            "FirstName": "Luke",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "14:43",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:18",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:19",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:41",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "15:55",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4846",
+                            "LastName": "Hall",
+                            "FirstName": "Taylor",
+                            "JerseyNumber": "9",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:11",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5293",
+                            "LastName": "Murphy",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:22",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5441",
+                            "LastName": "Duclair",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "10",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:23",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "16:38",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5424",
+                            "LastName": "DeAngelo",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "77",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:04",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:04",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:23",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:42",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "4552",
+                            "LastName": "Schenn",
+                            "FirstName": "Luke",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:43",
+                    "penalty": {
+                        "teamAbbreviation": "NJD",
+                        "penalizedPlayer": {
+                            "ID": "5544",
+                            "LastName": "Noesen",
+                            "FirstName": "Stefan",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Roughing"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:43",
+                    "penalty": {
+                        "teamAbbreviation": "ARI",
+                        "penalizedPlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "severity": "Minor",
+                        "durationMinutes": "2",
+                        "type": "Roughing"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "17:43",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "18:19",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "18:19",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "250",
+                            "LastName": "Vrbata",
+                            "FirstName": "Radim",
+                            "JerseyNumber": "17",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "19:11",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "9642",
+                            "LastName": "Chychrun",
+                            "FirstName": "Jakob",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "2",
+                    "time": "19:13",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                null,
+                {
+                    "period": "2",
+                    "time": "19:53",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:00",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:13",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:13",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "5453",
+                            "LastName": "Severson",
+                            "FirstName": "Damon",
+                            "JerseyNumber": "28",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:17",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:17",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "NJD",
+                        "goalScorer": {
+                            "ID": "4796",
+                            "LastName": "Palmieri",
+                            "FirstName": "Kyle",
+                            "JerseyNumber": "21",
+                            "Position": "RW"
+                        },
+                        "assist1Player": {
+                            "ID": "5453",
+                            "LastName": "Severson",
+                            "FirstName": "Damon",
+                            "JerseyNumber": "28",
+                            "Position": "D"
+                        },
+                        "assist2Player": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:32",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5293",
+                            "LastName": "Murphy",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:34",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "4402",
+                            "LastName": "Goligoski",
+                            "FirstName": "Alex",
+                            "JerseyNumber": "33",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:52",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "5299",
+                            "LastName": "Merrill",
+                            "FirstName": "Jon",
+                            "JerseyNumber": "7",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "0:53",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5293",
+                            "LastName": "Murphy",
+                            "FirstName": "Connor",
+                            "JerseyNumber": "5",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "1:21",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "1:50",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "2:43",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5606",
+                            "LastName": "Crouse",
+                            "FirstName": "Lawson",
+                            "JerseyNumber": "67",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "3:47",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4218",
+                            "LastName": "Greene",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "4:03",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:27",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "5169",
+                            "LastName": "Bennett",
+                            "FirstName": "Beau",
+                            "JerseyNumber": "8",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "4:47",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "5544",
+                            "LastName": "Noesen",
+                            "FirstName": "Stefan",
+                            "JerseyNumber": "23",
+                            "Position": "RW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:11",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "5:34",
+                    "shot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "9079",
+                            "LastName": "Wood",
+                            "FirstName": "Miles",
+                            "JerseyNumber": "44",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:46",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "5:59",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4564",
+                            "LastName": "McGinn",
+                            "FirstName": "Jamie",
+                            "JerseyNumber": "88",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:04",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "4866",
+                            "LastName": "Ekman-Larsson",
+                            "FirstName": "Oliver",
+                            "JerseyNumber": "23",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:10",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "12200",
+                            "LastName": "Rooney",
+                            "FirstName": "Steve",
+                            "JerseyNumber": "58",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "6:49",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "8:24",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:15",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "4866",
+                            "LastName": "Ekman-Larsson",
+                            "FirstName": "Oliver",
+                            "JerseyNumber": "23",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:19",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "9:52",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "9048",
+                            "LastName": "Pietila",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "56",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:07",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5606",
+                            "LastName": "Crouse",
+                            "FirstName": "Lawson",
+                            "JerseyNumber": "67",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:14",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "5606",
+                            "LastName": "Crouse",
+                            "FirstName": "Lawson",
+                            "JerseyNumber": "67",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "10:20",
+                    "hit": {
+                        "teamAbbreviation": "ARI",
+                        "player": {
+                            "ID": "4866",
+                            "LastName": "Ekman-Larsson",
+                            "FirstName": "Oliver",
+                            "JerseyNumber": "23",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "11:53",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:02",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:20",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5482",
+                            "LastName": "Rieder",
+                            "FirstName": "Tobias",
+                            "JerseyNumber": "8",
+                            "Position": "C"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:46",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "11511",
+                            "LastName": "Perlini",
+                            "FirstName": "Brendan",
+                            "JerseyNumber": "29",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "12:46",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "11702",
+                            "LastName": "Coleman",
+                            "FirstName": "Blake",
+                            "JerseyNumber": "40",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "4794",
+                            "LastName": "Holland",
+                            "FirstName": "Peter",
+                            "JerseyNumber": "13",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "13:04",
+                    "shot": {
+                        "teamAbbreviation": "ARI",
+                        "shooter": {
+                            "ID": "5424",
+                            "LastName": "DeAngelo",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "77",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "13:31",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5468",
+                            "LastName": "Jooris",
+                            "FirstName": "Josh",
+                            "JerseyNumber": "86",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "13:31",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "ARI",
+                        "goalScorer": {
+                            "ID": "5424",
+                            "LastName": "DeAngelo",
+                            "FirstName": "Anthony",
+                            "JerseyNumber": "77",
+                            "Position": "D"
+                        },
+                        "assist1Player": {
+                            "ID": "4564",
+                            "LastName": "McGinn",
+                            "FirstName": "Jamie",
+                            "JerseyNumber": "88",
+                            "Position": "LW"
+                        },
+                        "assist2Player": {
+                            "ID": "9642",
+                            "LastName": "Chychrun",
+                            "FirstName": "Jakob",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "14:00",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "9078",
+                            "LastName": "Santini",
+                            "FirstName": "Steven",
+                            "JerseyNumber": "34",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "14:12",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "4218",
+                            "LastName": "Greene",
+                            "FirstName": "Andy",
+                            "JerseyNumber": "6",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                null,
+                null,
+                {
+                    "period": "3",
+                    "time": "15:02",
+                    "goal": {
+                        "specialTeam": "EV",
+                        "teamAbbreviation": "NJD",
+                        "goalScorer": {
+                            "ID": "4959",
+                            "LastName": "Moore",
+                            "FirstName": "John",
+                            "JerseyNumber": "2",
+                            "Position": "D"
+                        },
+                        "assist1Player": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "assist2Player": {
+                            "ID": "9079",
+                            "LastName": "Wood",
+                            "FirstName": "Miles",
+                            "JerseyNumber": "44",
+                            "Position": "LW"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "15:02",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "16:37",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5601",
+                            "LastName": "Zacha",
+                            "FirstName": "Pavel",
+                            "JerseyNumber": "37",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:09",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "5453",
+                            "LastName": "Severson",
+                            "FirstName": "Damon",
+                            "JerseyNumber": "28",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:22",
+                    "penaltyShot": {
+                        "teamAbbreviation": "NJD",
+                        "shooter": {
+                            "ID": "4846",
+                            "LastName": "Hall",
+                            "FirstName": "Taylor",
+                            "JerseyNumber": "9",
+                            "Position": "LW"
+                        },
+                        "outcome": "Saved"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "17:22",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "NJD"
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "17:37",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "5453",
+                            "LastName": "Severson",
+                            "FirstName": "Damon",
+                            "JerseyNumber": "28",
+                            "Position": "D"
+                        }
+                    }
+                },
+                null,
+                {
+                    "period": "3",
+                    "time": "18:46",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "5884",
+                            "LastName": "Blandisi",
+                            "FirstName": "Joseph",
+                            "JerseyNumber": "64",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "10069",
+                            "LastName": "Dvorak",
+                            "FirstName": "Christian",
+                            "JerseyNumber": "18",
+                            "Position": "C"
+                        },
+                        "wonBy": "ARI"
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:15",
+                    "goalieChange": {
+                        "teamAbbreviation": "NJD",
+                        "outgoingGoalie": {
+                            "ID": "5180",
+                            "LastName": "Kinkaid",
+                            "FirstName": "Keith",
+                            "JerseyNumber": "1",
+                            "Position": "G"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:27",
+                    "hit": {
+                        "teamAbbreviation": "NJD",
+                        "player": {
+                            "ID": "5453",
+                            "LastName": "Severson",
+                            "FirstName": "Damon",
+                            "JerseyNumber": "28",
+                            "Position": "D"
+                        }
+                    }
+                },
+                {
+                    "period": "3",
+                    "time": "19:35",
+                    "faceoff": {
+                        "awayPlayer": {
+                            "ID": "4983",
+                            "LastName": "Henrique",
+                            "FirstName": "Adam",
+                            "JerseyNumber": "14",
+                            "Position": "C"
+                        },
+                        "homePlayer": {
+                            "ID": "5495",
+                            "LastName": "Martinook",
+                            "FirstName": "Jordan",
+                            "JerseyNumber": "48",
+                            "Position": "LW"
+                        },
+                        "wonBy": "ARI"
+                    }
+                }
+            ]
+        }
+    }
+}
